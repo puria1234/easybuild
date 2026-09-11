@@ -1,0 +1,31 @@
+{
+  "opendb_id": "46cb83e5-8f4f-4f11-8f28-f0cd5c2f8cf4",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Sony Extra Bass MDRXB550AP Closed Headphones Blue",
+    "manufacturer": "Sony",
+    "part_numbers": ["MDRXB550AP", "L"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "L",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "MDRXB550AP",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

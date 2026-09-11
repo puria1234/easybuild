@@ -1,0 +1,26 @@
+{
+  "opendb_id": "6f99a1d0-fc9d-4149-aeaa-10d8d273836b",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "EKSA E900 PRO 7.1 Channel Wired Gaming Headset",
+    "manufacturer": "EKSA",
+    "part_numbers": ["E900 PRO-GREEN"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "E900 PRO-GREEN",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

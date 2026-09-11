@@ -1,0 +1,31 @@
+{
+  "opendb_id": "192060d1-b64e-4647-a229-05f7e02c47c6",
+  "size": 80,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 25.65,
+  "max_airflow": null,
+  "min_noise_level": 17.2,
+  "max_noise_level": 22,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Xion Alphawing 80mm White",
+    "manufacturer": "Xion",
+    "part_numbers": [],
+    "series": "Alphawing",
+    "variant": "80mm White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

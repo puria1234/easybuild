@@ -1,0 +1,31 @@
+{
+  "opendb_id": "1d3f12f6-2dde-4adb-b034-f523fa5a89ae",
+  "size": 140,
+  "color": ["BLACK", "GREEN"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 76.5,
+  "max_airflow": null,
+  "min_noise_level": 16.89,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Nanoxia Deep Silence 140mm Black / Green PWM",
+    "manufacturer": "Nanoxia",
+    "part_numbers": [],
+    "series": "Deep",
+    "variant": "140mm Black / Green"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

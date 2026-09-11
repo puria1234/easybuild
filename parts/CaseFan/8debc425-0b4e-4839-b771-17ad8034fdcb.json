@@ -1,0 +1,31 @@
+{
+  "opendb_id": "8debc425-0b4e-4839-b771-17ad8034fdcb",
+  "size": 120,
+  "color": ["BLUE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 74.48,
+  "max_airflow": null,
+  "min_noise_level": 29.28,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "Blue",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Rosewill RFA-120-BL 120mm Blue Blue LED 74.48 CFM 1-Pack",
+    "manufacturer": "Rosewill",
+    "part_numbers": [],
+    "series": "RFA-120-BL",
+    "variant": "120mm Blue"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "a37cf97a-2a0a-44a3-a1f9-09c4ecc3a1bd",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 72.47,
+  "max_airflow": 155.08,
+  "min_noise_level": 23,
+  "max_noise_level": 38,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Enermax D.F. Storm 120mm Black PWM (155.08 CFM)",
+    "manufacturer": "Enermax",
+    "part_numbers": [],
+    "series": "D.F.",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

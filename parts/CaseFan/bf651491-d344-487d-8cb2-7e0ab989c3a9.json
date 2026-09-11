@@ -1,0 +1,160 @@
+{
+  "opendb_id": "bf651491-d344-487d-8cb2-7e0ab989c3a9",
+  "size": 120,
+  "color": ["WHITE", "BLACK"],
+  "lighting": [],
+  "quantity": 3,
+  "min_airflow": null,
+  "max_airflow": null,
+  "min_noise_level": null,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "Manual",
+  "static_pressure": 3.12,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "In Win Saturn ASN120 120mm White / Black PWM Addressable RGB 77.17 CFM 3-Pack",
+    "manufacturer": "In Win",
+    "part_numbers": ["ASN120-3PK"],
+    "series": "Saturn",
+    "variant": "120mm White / Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0827955029340",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "ASN120-3PK",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "827955029340",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B08FSLYG6N",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "156484383",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

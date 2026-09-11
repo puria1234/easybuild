@@ -1,0 +1,31 @@
+{
+  "opendb_id": "3f1975cf-865f-4866-8117-37d5057cbbcb",
+  "size": 120,
+  "color": ["GREEN"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 58.35,
+  "max_airflow": null,
+  "min_noise_level": 22.3,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 2.41,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Thermaltake TOUGHFAN 120mm Green PWM 58.35 CFM",
+    "manufacturer": "Thermaltake",
+    "part_numbers": [],
+    "series": "TOUGHFAN",
+    "variant": "120mm Green"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

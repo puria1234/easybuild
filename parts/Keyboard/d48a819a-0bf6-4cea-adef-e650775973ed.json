@@ -1,0 +1,23 @@
+{
+  "opendb_id": "d48a819a-0bf6-4cea-adef-e650775973ed",
+  "lighting": [],
+  "features": [],
+  "connectivity": ["Wired USB-A"],
+  "metadata": {
+    "name": "Genius G-ZEUS RGB Wired Gaming Keyboard",
+    "manufacturer": "Genius",
+    "part_numbers": ["G-ZEUS"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "G-ZEUS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

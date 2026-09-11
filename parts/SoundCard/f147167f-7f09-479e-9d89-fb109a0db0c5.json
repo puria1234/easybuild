@@ -1,0 +1,141 @@
+{
+  "opendb_id": "f147167f-7f09-479e-9d89-fb109a0db0c5",
+  "metadata": {
+    "name": "Creative Labs ZXR PCIe x1 5.1 Channel 24-bit 192 kHz",
+    "manufacturer": "CREATIVE",
+    "part_numbers": ["70SB151000000", "SB1510"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0809185332124",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "70SB151000000",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SB1510",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "809385181133",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B00AQ5PK6I",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

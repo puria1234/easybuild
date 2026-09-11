@@ -1,0 +1,28 @@
+{
+  "opendb_id": "6da29006-f0d6-4eb3-a6b7-65e44e973030",
+  "metadata": {
+    "name": "Deepcool DP-TIM-Z10-1 5g Thermal Paste",
+    "manufacturer": "Deepcool",
+    "part_numbers": ["DP-TIM-Z10-1"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "DP-TIM-Z10-1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "ccl",
+        "channel": "uk",
+        "source_product_id": "CLR2777",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "opendb_id": "b1188de4-e96a-4d67-9178-13bcbdf3abcb",
+  "lighting": [],
+  "features": [],
+  "connectivity": [],
+  "metadata": {
+    "name": "Cooler Master MasterSet MS120 (US) RGB Wired Gaming Keyboard With Optical Mouse",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [
+      "SGB-3050-KKMF1-US",
+      "SGB-3050-KKMF1-UK",
+      "SGB-3050-KKMF1-DE",
+      "SGB-3050-KKMF1-IT",
+      "SGB-3050-KKMF1-SP",
+      "SGB-3050-KKMF1-FR"
+    ]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SGB-3050-KKMF1-DE",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SGB-3050-KKMF1-FR",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SGB-3050-KKMF1-IT",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SGB-3050-KKMF1-SP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SGB-3050-KKMF1-UK",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SGB-3050-KKMF1-US",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

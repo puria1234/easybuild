@@ -1,0 +1,31 @@
+{
+  "opendb_id": "e2702849-ca59-410f-a50b-34320634145f",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 36.72,
+  "max_airflow": null,
+  "min_noise_level": 24.3,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "Addressable RGB",
+  "connector": "3-pin + 3-pin 5V Addressable RGB",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Cougar VORTEX FCB 120mm Black 36.72 CFM Addressable RGB",
+    "manufacturer": "COUGAR",
+    "part_numbers": [],
+    "series": "VORTEX",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

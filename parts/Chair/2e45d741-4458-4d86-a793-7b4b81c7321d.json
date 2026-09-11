@@ -1,0 +1,21 @@
+{
+  "opendb_id": "2e45d741-4458-4d86-a793-7b4b81c7321d",
+  "metadata": {
+    "name": "Razer Iskur V2 NewGen - Quartz",
+    "manufacturer": "Razer",
+    "part_numbers": ["RZ38-04900900-R3G1"],
+    "series": "Iskur V2 Newgen"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RZ38-04900900-R3G1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

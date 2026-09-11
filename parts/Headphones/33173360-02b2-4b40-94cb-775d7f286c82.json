@@ -1,0 +1,26 @@
+{
+  "opendb_id": "33173360-02b2-4b40-94cb-775d7f286c82",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Panasonic RP-HS220-K Earbud",
+    "manufacturer": "Panasonic",
+    "part_numbers": ["RP-HS220-K"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RP-HS220-K",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

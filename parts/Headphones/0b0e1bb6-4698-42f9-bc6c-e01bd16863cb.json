@@ -1,0 +1,26 @@
+{
+  "opendb_id": "0b0e1bb6-4698-42f9-bc6c-e01bd16863cb",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "DROP Massdrop Plus Universal Closed-Back In-Ear Headphones",
+    "manufacturer": "DROP",
+    "part_numbers": ["Universal Plus IEM"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "Universal Plus IEM",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

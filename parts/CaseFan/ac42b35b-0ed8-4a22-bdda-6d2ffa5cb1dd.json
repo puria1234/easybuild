@@ -1,0 +1,31 @@
+{
+  "opendb_id": "ac42b35b-0ed8-4a22-bdda-6d2ffa5cb1dd",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 20,
+  "max_airflow": 61.4,
+  "min_noise_level": 22,
+  "max_noise_level": 31,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + Proprietary RGB",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "NZXT Aer 120mm Black Addressable RGB PWM 61.4 CFM",
+    "manufacturer": "NZXT",
+    "part_numbers": [],
+    "series": "Aer",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "b86f1587-d501-41a5-bc1d-573f60506a35",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Syba CL-AUD63037 Closed Headphones",
+    "manufacturer": "Syba",
+    "part_numbers": ["CL-AUD63037"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CL-AUD63037",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

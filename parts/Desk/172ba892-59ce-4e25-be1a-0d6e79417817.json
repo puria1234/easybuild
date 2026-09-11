@@ -1,0 +1,71 @@
+{
+  "opendb_id": "172ba892-59ce-4e25-be1a-0d6e79417817",
+  "metadata": {
+    "name": "CORSAIR Platform:6 Desk - Black",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CF-9500050-NA"],
+    "releaseYear": 2023
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CF-9500050-NA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "corsair",
+        "channel": "ca",
+        "source_product_id": "CF-9500050-NA",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "de",
+        "source_product_id": "CF-9500050-NA",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "es",
+        "source_product_id": "CF-9500050-NA",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "fr",
+        "source_product_id": "CF-9500050-NA",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "it",
+        "source_product_id": "CF-9500050-NA",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "uk",
+        "source_product_id": "CF-9500050-NA",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "us",
+        "source_product_id": "CF-9500050-NA",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

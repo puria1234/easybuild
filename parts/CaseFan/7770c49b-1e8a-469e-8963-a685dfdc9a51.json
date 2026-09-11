@@ -1,0 +1,31 @@
+{
+  "opendb_id": "7770c49b-1e8a-469e-8963-a685dfdc9a51",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 4,
+  "min_airflow": 57.67,
+  "max_airflow": null,
+  "min_noise_level": 24.7,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "RGB",
+  "connector": "Proprietary",
+  "controller": "Manual",
+  "static_pressure": 0.96,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Apevia FrostBlade 120mm Black RGB 4-Pack",
+    "manufacturer": "Apevia",
+    "part_numbers": [],
+    "series": "FrostBlade",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

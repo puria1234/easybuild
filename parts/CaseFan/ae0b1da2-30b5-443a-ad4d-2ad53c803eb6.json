@@ -1,0 +1,31 @@
+{
+  "opendb_id": "ae0b1da2-30b5-443a-ad4d-2ad53c803eb6",
+  "size": 40,
+  "color": ["BLACK", "WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 3.6,
+  "max_airflow": null,
+  "min_noise_level": 20,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": 1.24,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Fractal Design Silent R3 40mm Black / White",
+    "manufacturer": "Fractal Design",
+    "part_numbers": [],
+    "series": "Silent",
+    "variant": "40mm Black / White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

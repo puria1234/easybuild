@@ -1,0 +1,31 @@
+{
+  "opendb_id": "187a0f93-7df5-4d45-aaa7-7e4408c5fa99",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 69,
+  "max_airflow": null,
+  "min_noise_level": 28.1,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 2.87,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Thermalright TL-B Extrem LCP 69CFM 120mm Black PWM 1-Pack",
+    "manufacturer": "Thermalright",
+    "part_numbers": [],
+    "series": "TL-B",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

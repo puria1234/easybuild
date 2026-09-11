@@ -1,0 +1,26 @@
+{
+  "opendb_id": "4b72933d-0db5-4230-9863-fc4428f70764",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Audio-Technica ATH-M30 Closed-Back Headphones",
+    "manufacturer": "Audio-Technica",
+    "part_numbers": ["ATH-M30"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ATH-M30",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

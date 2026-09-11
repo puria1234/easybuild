@@ -1,0 +1,154 @@
+{
+  "opendb_id": "ae27d660-ee02-4398-be27-ebf2c55e83fc",
+  "screen_size": 49,
+  "resolution": {
+    "horizontalRes": 5120,
+    "verticalRes": 1440
+  },
+  "refresh_rate": 60,
+  "panel_type": "IPS",
+  "response_time": 5,
+  "color": ["GREY"],
+  "lighting": [],
+  "viewing_angle": "178° H x 178° V",
+  "aspect_ratio": "32:9",
+  "connectors": "2 x HDMI                                                    1 x DisplayPort",
+  "max_brightness": 350,
+  "hdr": "",
+  "adaptive_sync": "None",
+  "metadata": {
+    "name": "LG 49WL95C-W 49\" 5120x1440 60Hz IPS Curved Monitor",
+    "manufacturer": "LG",
+    "part_numbers": ["49WL95C-W"],
+    "series": "",
+    "variant": "Silver"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0719192629639",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "49WL95C-W",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "719192629639",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "amazon",
+        "channel": "au",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "be",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ca",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "de",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "es",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "fr",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "ie",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "it",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "jp",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "nl",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "pl",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "se",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "sg",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "uk",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "amazon",
+        "channel": "us",
+        "source_product_id": "B07PJQKLTW",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

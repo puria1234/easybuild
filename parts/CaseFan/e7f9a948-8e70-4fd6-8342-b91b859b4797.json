@@ -1,0 +1,31 @@
+{
+  "opendb_id": "e7f9a948-8e70-4fd6-8342-b91b859b4797",
+  "size": 140,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 67.02,
+  "max_airflow": null,
+  "min_noise_level": 20,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "Blue",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Thermaltake Pure 140mm Clear 67.02 CFM Blue LED",
+    "manufacturer": "Thermaltake",
+    "part_numbers": [],
+    "series": "Pure",
+    "variant": "140mm Clear"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "0102e9b7-4bb4-4af8-84fc-46c731118b44",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "SteelSeries Siberia P100 Closed Headphones",
+    "manufacturer": "SteelSeries",
+    "part_numbers": ["61414"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "61414",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

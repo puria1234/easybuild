@@ -1,0 +1,26 @@
+{
+  "opendb_id": "73b6b16c-3755-438c-aede-287db8db1607",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Logitech G435 ",
+    "manufacturer": "Logitech",
+    "part_numbers": ["981-001061"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "981-001061",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

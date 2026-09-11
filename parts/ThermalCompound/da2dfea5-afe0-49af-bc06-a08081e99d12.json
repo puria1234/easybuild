@@ -1,0 +1,20 @@
+{
+  "opendb_id": "da2dfea5-afe0-49af-bc06-a08081e99d12",
+  "metadata": {
+    "name": "Gelid Solutions GC-4 3.5g Thermal Paste",
+    "manufacturer": "Gelid Solutions",
+    "part_numbers": ["TC-GC-04-B"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TC-GC-04-B",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

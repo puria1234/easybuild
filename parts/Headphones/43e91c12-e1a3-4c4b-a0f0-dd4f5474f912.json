@@ -1,0 +1,31 @@
+{
+  "opendb_id": "43e91c12-e1a3-4c4b-a0f0-dd4f5474f912",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Sony h.ear on 2 Wireless Noise Cancelling Closed-Back Gray Headphones",
+    "manufacturer": "Sony",
+    "part_numbers": ["WHH900N", "L"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "L",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "WHH900N",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

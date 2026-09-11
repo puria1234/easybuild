@@ -1,0 +1,71 @@
+{
+  "opendb_id": "8bb4837e-be85-4077-bdf5-77bb62a1db31",
+  "metadata": {
+    "name": "Corsair Platform:4 Elevate Desk - Wood, Light Pine Stain",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CF-9500057-WW"],
+    "releaseYear": 2025
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CF-9500057-WW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "corsair",
+        "channel": "ca",
+        "source_product_id": "CF-9500057-WW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "de",
+        "source_product_id": "CF-9500057-WW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "es",
+        "source_product_id": "CF-9500057-WW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "fr",
+        "source_product_id": "CF-9500057-WW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "it",
+        "source_product_id": "CF-9500057-WW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "uk",
+        "source_product_id": "CF-9500057-WW",
+        "pricing_enabled": true,
+        "verified": true
+      },
+      {
+        "source": "corsair",
+        "channel": "us",
+        "source_product_id": "CF-9500057-WW",
+        "pricing_enabled": true,
+        "verified": true
+      }
+    ]
+  }
+}

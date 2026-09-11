@@ -1,0 +1,38 @@
+{
+  "opendb_id": "a976179c-0a3c-4883-94ae-33d3c2995b75",
+  "screen_size": 22,
+  "resolution": {
+    "horizontalRes": 1680,
+    "verticalRes": 1050
+  },
+  "refresh_rate": 0,
+  "panel_type": null,
+  "response_time": 5,
+  "color": [],
+  "lighting": [],
+  "viewing_angle": "",
+  "aspect_ratio": "16:10",
+  "connectors": "1 x VGA                                                    1 x DVI",
+  "max_brightness": 250,
+  "hdr": "",
+  "adaptive_sync": "None",
+  "metadata": {
+    "name": "Samsung S22A450BW 22\" 1680x1050 Monitor",
+    "manufacturer": "Samsung",
+    "part_numbers": ["S22A450BW"],
+    "series": "",
+    "variant": ""
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "S22A450BW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "6f4ecc7a-0625-47b6-b975-33135f09d087",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 43.5,
+  "max_airflow": null,
+  "min_noise_level": 20,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "BitFenix Spectre 120mm Black",
+    "manufacturer": "BitFenix",
+    "part_numbers": [],
+    "series": "Spectre",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

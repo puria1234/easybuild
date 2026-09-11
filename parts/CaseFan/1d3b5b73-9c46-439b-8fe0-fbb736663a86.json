@@ -1,0 +1,31 @@
+{
+  "opendb_id": "1d3b5b73-9c46-439b-8fe0-fbb736663a86",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 35,
+  "max_airflow": null,
+  "min_noise_level": 17.8,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "KOLINK UMBRA 120mm Black PWM ARGB",
+    "manufacturer": "KOLINK",
+    "part_numbers": [],
+    "series": "UMBRA",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

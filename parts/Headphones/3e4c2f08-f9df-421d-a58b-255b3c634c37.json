@@ -1,0 +1,26 @@
+{
+  "opendb_id": "3e4c2f08-f9df-421d-a58b-255b3c634c37",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Skullcandy Crusher Closed-Back Headphones",
+    "manufacturer": "Skullcandy",
+    "part_numbers": ["SGSCGY-132"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SGSCGY-132",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

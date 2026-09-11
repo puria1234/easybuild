@@ -1,0 +1,47 @@
+{
+  "opendb_id": "bde2cb9d-9ba5-4dc1-b2fa-f781f94070cd",
+  "size": 120,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 40.6,
+  "max_airflow": null,
+  "min_noise_level": 15,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Fractal Design Silent R2 120mm White",
+    "manufacturer": "Fractal Design",
+    "part_numbers": ["FD-FAN-SSR2-140"],
+    "series": "Silent",
+    "variant": "120mm White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0071040198804",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "FD-FAN-SSR2-140",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "021111379946",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

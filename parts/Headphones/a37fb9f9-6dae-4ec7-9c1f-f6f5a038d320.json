@@ -1,0 +1,26 @@
+{
+  "opendb_id": "a37fb9f9-6dae-4ec7-9c1f-f6f5a038d320",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Shure SRH940 ",
+    "manufacturer": "Shure",
+    "part_numbers": ["70700013"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "70700013",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "315315f0-d162-48ed-a6a3-206242a61d74",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Panasonic RP-TCM125-A Closed-Back In-Ear Headphones",
+    "manufacturer": "Panasonic",
+    "part_numbers": ["RP-TCM125-A"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RP-TCM125-A",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

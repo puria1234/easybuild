@@ -1,0 +1,31 @@
+{
+  "opendb_id": "2e9e93cd-05fe-4f38-b04e-8a2bc568b9d4",
+  "size": 180,
+  "color": ["BLACK", "BLUE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 116,
+  "max_airflow": 210,
+  "min_noise_level": 15,
+  "max_noise_level": 20,
+  "pwm": false,
+  "led": "Blue",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Enermax T.B. Apollish 180mm Black / Blue 210 CFM Blue LED",
+    "manufacturer": "Enermax",
+    "part_numbers": [],
+    "series": "T.B.",
+    "variant": "180mm Black / Blue"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

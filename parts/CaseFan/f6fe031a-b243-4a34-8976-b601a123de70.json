@@ -1,0 +1,31 @@
+{
+  "opendb_id": "f6fe031a-b243-4a34-8976-b601a123de70",
+  "size": 120,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 62,
+  "max_airflow": null,
+  "min_noise_level": 18,
+  "max_noise_level": 26.4,
+  "pwm": true,
+  "led": "White",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 1.78,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "ID-COOLING SF-12025-W 120mm White PWM 62 CFM",
+    "manufacturer": "ID-COOLING",
+    "part_numbers": [],
+    "series": "SF-12025-W",
+    "variant": "120mm White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "3b8c57f0-5909-413f-9dfe-b0aaf80e3a06",
+  "size": 140,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 60.9,
+  "max_airflow": null,
+  "min_noise_level": 16,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "Blue",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Cooler Master R4-L4S-10AB-GP 140mm Clear Blue LED",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [],
+    "series": "R4-L4S-10AB-GP",
+    "variant": "140mm Clear"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

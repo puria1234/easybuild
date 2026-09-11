@@ -1,0 +1,46 @@
+{
+  "opendb_id": "561eaa0b-3764-45df-8fe3-9996c2fc595e",
+  "size": 120,
+  "color": ["BLACK", "PURPLE"],
+  "lighting": [],
+  "quantity": 3,
+  "min_airflow": 90.04,
+  "max_airflow": 151.87,
+  "min_noise_level": 35.73,
+  "max_noise_level": 48.39,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "Manual",
+  "static_pressure": 7.14,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Super Flower MEGACOOL 120mm Black / Purple PWM 151.87 CFM 3-Pack",
+    "manufacturer": "Super Flower",
+    "part_numbers": ["SF-PF121-BK_3P"],
+    "series": "MEGACOOL",
+    "variant": "120mm Black / Purple"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": [
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "1YF-01B3-00003",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "1YF-01B3-00003",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

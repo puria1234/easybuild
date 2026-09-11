@@ -1,0 +1,26 @@
+{
+  "opendb_id": "a0a36143-87b7-4483-9667-a5f563612678",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "V7 HS2000-35 Closed 9NC Headphones Black",
+    "manufacturer": "V7",
+    "part_numbers": ["HS2000-35-BLK-9NC"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HS2000-35-BLK-9NC",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

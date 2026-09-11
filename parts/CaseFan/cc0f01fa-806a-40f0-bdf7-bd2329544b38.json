@@ -1,0 +1,31 @@
+{
+  "opendb_id": "cc0f01fa-806a-40f0-bdf7-bd2329544b38",
+  "size": 140,
+  "color": ["WHITE", "BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 77.3,
+  "max_airflow": null,
+  "min_noise_level": null,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "ARCTIC F14 140mm White / Black PWM",
+    "manufacturer": "ARCTIC",
+    "part_numbers": [],
+    "series": "F14",
+    "variant": "140mm White / Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

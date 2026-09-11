@@ -1,0 +1,31 @@
+{
+  "opendb_id": "cd520215-476d-49ac-9d23-642eab3feefa",
+  "size": 140,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 66.4,
+  "max_airflow": null,
+  "min_noise_level": 25.5,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "Purple",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Corsair AF140 140mm Black Purple LED 66.4 CFM",
+    "manufacturer": "Corsair",
+    "part_numbers": [],
+    "series": "AF140",
+    "variant": "140mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

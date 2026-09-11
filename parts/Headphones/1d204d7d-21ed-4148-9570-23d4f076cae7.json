@@ -1,0 +1,26 @@
+{
+  "opendb_id": "1d204d7d-21ed-4148-9570-23d4f076cae7",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Skullcandy S2SBFY-130 Closed In-Ear Headset with Microphone",
+    "manufacturer": "Skullcandy",
+    "part_numbers": ["S2SBFY-130"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "S2SBFY-130",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

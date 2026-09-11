@@ -1,0 +1,26 @@
+{
+  "opendb_id": "a13437bf-c043-4755-a87f-76dca42b6697",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "TAKSTAR SHADE Closed-Back Headphones",
+    "manufacturer": "TAKSTAR",
+    "part_numbers": ["GM200"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GM200",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "dfc6eedb-376d-4132-afe6-a2edd4df0151",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "GAMDIAS HEPHAESTUS 7.1 Channel Gaming Headset",
+    "manufacturer": "GAMDIAS",
+    "part_numbers": ["GHS2000"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GHS2000",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

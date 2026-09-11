@@ -1,0 +1,26 @@
+{
+  "opendb_id": "59a1185e-5da2-4e5e-8dd2-403234312ef8",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "AKG K326BLK Wired Earbuds With Microphone Closed-Back",
+    "manufacturer": "AKG",
+    "part_numbers": ["K326BLK"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "K326BLK",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

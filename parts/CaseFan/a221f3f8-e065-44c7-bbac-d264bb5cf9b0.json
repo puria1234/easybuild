@@ -1,0 +1,31 @@
+{
+  "opendb_id": "a221f3f8-e065-44c7-bbac-d264bb5cf9b0",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 44.73,
+  "max_airflow": null,
+  "min_noise_level": 19.1,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Cooler Master Super Fan 120mm Black 44.73 CFM 1-Pack",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [],
+    "series": "Super",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

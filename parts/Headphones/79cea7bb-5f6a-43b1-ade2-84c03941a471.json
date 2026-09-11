@@ -1,0 +1,26 @@
+{
+  "opendb_id": "79cea7bb-5f6a-43b1-ade2-84c03941a471",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "ROCCAT Kulo Gaming Headset Virtual 7.1 7.1 Channel",
+    "manufacturer": "ROCCAT",
+    "part_numbers": ["ROC-14-702"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ROC-14-702",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

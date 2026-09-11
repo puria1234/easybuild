@@ -1,0 +1,26 @@
+{
+  "opendb_id": "791dee7f-135a-4b3c-a990-bf66101705b8",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Plantronics GameCom 780 7.1 Channel Closed Gaming Headset",
+    "manufacturer": "Plantronics",
+    "part_numbers": ["PLGAMECOM780                                                    PLTGC780"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "PLGAMECOM780                                                    PLTGC780",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

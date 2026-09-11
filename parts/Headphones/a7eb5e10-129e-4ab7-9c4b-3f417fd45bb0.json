@@ -1,0 +1,26 @@
+{
+  "opendb_id": "a7eb5e10-129e-4ab7-9c4b-3f417fd45bb0",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Coby 716829222331 Closed-Back Headphones Black / Silver",
+    "manufacturer": "Coby",
+    "part_numbers": ["716829222331"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "716829222331",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

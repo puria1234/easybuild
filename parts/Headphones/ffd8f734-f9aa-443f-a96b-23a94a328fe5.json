@@ -1,0 +1,26 @@
+{
+  "opendb_id": "ffd8f734-f9aa-443f-a96b-23a94a328fe5",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "SteelSeries Arctis Pro Gaming Headset Closed-Back",
+    "manufacturer": "SteelSeries",
+    "part_numbers": ["Arctis Pro"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "Arctis Pro",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -17,6 +17,10 @@
 /.next/
 /out/
 
+# eve
+/.eve/
+/.output/
+
 # production
 /build
 

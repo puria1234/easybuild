@@ -1,0 +1,31 @@
+{
+  "opendb_id": "b8386a49-3d13-4ac7-8001-ef3d5c9eb8ef",
+  "size": 140,
+  "color": [],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 48.7,
+  "max_airflow": null,
+  "min_noise_level": 23,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "Red",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Rosewill RFTL-131411R 140mm Transparent Red LED",
+    "manufacturer": "Rosewill",
+    "part_numbers": [],
+    "series": "RFTL-131411R",
+    "variant": "140mm Transparent"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

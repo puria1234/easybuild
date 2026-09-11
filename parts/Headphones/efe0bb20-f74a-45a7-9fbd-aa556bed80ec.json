@@ -1,0 +1,26 @@
+{
+  "opendb_id": "efe0bb20-f74a-45a7-9fbd-aa556bed80ec",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Koss GMR 545-AIR Open-Back Wired Gaming Headset",
+    "manufacturer": "Koss",
+    "part_numbers": ["194142"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "194142",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

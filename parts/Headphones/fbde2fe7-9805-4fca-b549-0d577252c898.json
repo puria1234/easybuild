@@ -1,0 +1,26 @@
+{
+  "opendb_id": "fbde2fe7-9805-4fca-b549-0d577252c898",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "HiFiMAN Deva Open-Back Headphones",
+    "manufacturer": "HiFiMAN",
+    "part_numbers": ["Deva"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "Deva",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

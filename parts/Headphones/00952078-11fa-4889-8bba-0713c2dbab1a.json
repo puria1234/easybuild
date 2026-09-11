@@ -1,0 +1,26 @@
+{
+  "opendb_id": "00952078-11fa-4889-8bba-0713c2dbab1a",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Panasonic 777780526821 Closed-Back Headphones",
+    "manufacturer": "Panasonic",
+    "part_numbers": ["777780526821"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "777780526821",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

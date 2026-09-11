@@ -1,0 +1,24 @@
+{
+  "opendb_id": "755664f0-0eda-4298-b24c-dbe13027a0af",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "MSI TORX FAN 4.0",
+    "manufacturer": "MSI",
+    "part_numbers": []
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

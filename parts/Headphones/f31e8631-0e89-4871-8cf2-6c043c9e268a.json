@@ -1,0 +1,26 @@
+{
+  "opendb_id": "f31e8631-0e89-4871-8cf2-6c043c9e268a",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Asus ROG Strix Fusion 300 Closed-Back 7.1 Channel Wired Gaming Headset",
+    "manufacturer": "Asus",
+    "part_numbers": ["ROG Strix Fusion 300 PNK"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ROG Strix Fusion 300 PNK",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "opendb_id": "974be1a5-ac25-4585-b496-b0fc9c5b4f32",
+  "metadata": {
+    "name": "CORSAIR TC500 Gaming Chair - Fabric Lilac",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CF-9010072-WW"],
+    "releaseYear": 2024
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CF-9010072-WW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "corsair",
+        "channel": "ca",
+        "source_product_id": "CF-9010072-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "de",
+        "source_product_id": "CF-9010072-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "es",
+        "source_product_id": "CF-9010072-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "fr",
+        "source_product_id": "CF-9010072-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "it",
+        "source_product_id": "CF-9010072-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "uk",
+        "source_product_id": "CF-9010072-WW",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "corsair",
+        "channel": "us",
+        "source_product_id": "CF-9010072-WW",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "7443c84f-0cfd-4eca-b8c3-e52f1d8e4d19",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Sony CZ-MDRE9LP Earbud (Gray)",
+    "manufacturer": "Sony",
+    "part_numbers": ["CZ-MDRE9LP", "GRAY"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "CZ-MDRE9LP",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "GRAY",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

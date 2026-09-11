@@ -1,0 +1,25 @@
+{
+  "opendb_id": "21f6d889-94f0-449f-8b14-7d033479471a",
+  "metadata": {
+    "name": "Razer Gigantus V2 Pro - Max Control - Black",
+    "manufacturer": "Razer",
+    "part_numbers": [],
+    "series": "Gigantus V2 Pro",
+    "variant": "Max Control Black",
+    "releaseYear": 2026
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.razer.com/gaming-mouse-mats/razer-gigantus-v2-pro/RZ02-05490100-R3U1?srsltid=AfmBOoqIjmxUdB-rkdpP71oWXBsN0ncaKILMBQsixFlvaYIVt00nqBAq"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RZ02-05490100-R3M1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

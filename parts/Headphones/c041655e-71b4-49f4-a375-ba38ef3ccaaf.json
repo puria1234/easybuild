@@ -1,0 +1,26 @@
+{
+  "opendb_id": "c041655e-71b4-49f4-a375-ba38ef3ccaaf",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Logitech UE 200 Closed In-Ear Headphones",
+    "manufacturer": "Logitech",
+    "part_numbers": ["985-000144"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "985-000144",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

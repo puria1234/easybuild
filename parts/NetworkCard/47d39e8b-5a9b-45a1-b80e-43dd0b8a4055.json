@@ -1,0 +1,30 @@
+{
+  "opendb_id": "47d39e8b-5a9b-45a1-b80e-43dd0b8a4055",
+  "metadata": {
+    "name": "Acer NP.OTH11.005 10 Mb/s Ethernet USB Type-A 2.0",
+    "manufacturer": "Shuomeng",
+    "part_numbers": ["NP.OTH11.005", "SM-A44LF"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "6975355700568",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "NP.OTH11.005",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "SM-A44LF",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

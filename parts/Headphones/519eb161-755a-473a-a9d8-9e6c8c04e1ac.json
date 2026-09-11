@@ -1,0 +1,26 @@
+{
+  "opendb_id": "519eb161-755a-473a-a9d8-9e6c8c04e1ac",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Yamaha HPH-PRO400WH Closed-Back Wired Headphones",
+    "manufacturer": "Yamaha",
+    "part_numbers": ["HPH-PRO400WH"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HPH-PRO400WH",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

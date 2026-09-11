@@ -1,0 +1,23 @@
+{
+  "opendb_id": "726f1223-ae03-48a7-b6d0-6091fa91ef1f",
+  "lighting": [],
+  "features": [],
+  "connectivity": [],
+  "metadata": {
+    "name": "SolidTek KB-260 Wired Standard Keyboard",
+    "manufacturer": "SolidTek",
+    "part_numbers": ["KB-260-BP"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "KB-260-BP",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

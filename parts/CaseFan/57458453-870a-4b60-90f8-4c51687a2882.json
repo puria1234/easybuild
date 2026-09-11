@@ -1,0 +1,31 @@
+{
+  "opendb_id": "57458453-870a-4b60-90f8-4c51687a2882",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 44.71,
+  "max_airflow": null,
+  "min_noise_level": 26,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Deepcool XFAN 120mm Black 44.71 CFM",
+    "manufacturer": "Deepcool",
+    "part_numbers": [],
+    "series": "XFAN",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

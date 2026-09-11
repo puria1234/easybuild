@@ -1,0 +1,23 @@
+{
+  "opendb_id": "8781c958-026f-479d-8b00-8a7c284ebd32",
+  "metadata": {
+    "name": "GTPLAYER Footrest Series GT800A - GRAY",
+    "manufacturer": "GTPLAYER",
+    "part_numbers": [],
+    "series": "GT800A FOOTREST",
+    "variant": "Grey",
+    "releaseYear": 2020
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "42123423547572",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

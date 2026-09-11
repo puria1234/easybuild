@@ -1,0 +1,20 @@
+{
+  "opendb_id": "eef29158-b3ea-4623-b599-16d3742b39f2",
+  "metadata": {
+    "name": "Syba SD-ADA24032 Gigabit Ethernet USB Type-A",
+    "manufacturer": "Syba",
+    "part_numbers": ["SD-ADA24032"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SD-ADA24032",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

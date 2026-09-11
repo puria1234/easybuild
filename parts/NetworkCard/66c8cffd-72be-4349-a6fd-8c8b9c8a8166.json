@@ -1,0 +1,20 @@
+{
+  "opendb_id": "66c8cffd-72be-4349-a6fd-8c8b9c8a8166",
+  "metadata": {
+    "name": "StarTech USB21000S2 Gigabit Ethernet USB Type-A",
+    "manufacturer": "StarTech",
+    "part_numbers": ["USB21000S2"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "USB21000S2",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

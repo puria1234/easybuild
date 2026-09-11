@@ -1,0 +1,31 @@
+{
+  "opendb_id": "d993f6f4-b765-412d-ad54-f3deba06ac6b",
+  "size": 120,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 79,
+  "max_airflow": null,
+  "min_noise_level": 29.8,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Antec 75003 120mm Clear",
+    "manufacturer": "Antec",
+    "part_numbers": [],
+    "series": "75003",
+    "variant": "120mm Clear"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "911272ee-8ba2-4693-a74a-97db3818e518",
+  "size": 140,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 43.75,
+  "max_airflow": 173.5,
+  "min_noise_level": 16.5,
+  "max_noise_level": 41.5,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Silverstone FHP 140mm Black PWM",
+    "manufacturer": "SilverStone",
+    "part_numbers": [],
+    "series": "FHP",
+    "variant": "140mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

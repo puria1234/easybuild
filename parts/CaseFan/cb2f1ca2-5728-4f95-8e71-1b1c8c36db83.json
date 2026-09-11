@@ -1,0 +1,71 @@
+{
+  "opendb_id": "cb2f1ca2-5728-4f95-8e71-1b1c8c36db83",
+  "size": 140,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 16.8,
+  "max_airflow": 67.2,
+  "min_noise_level": 4.19,
+  "max_noise_level": 19.4,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Scythe Kaze Flex Square 140mm Black PWM 67.2 CFM",
+    "manufacturer": "SCYTHE",
+    "part_numbers": ["KF1425FD18SR-P"],
+    "series": "Kaze",
+    "variant": "140mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "4571225057576",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "KF1425FD18SR-P",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2621544",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2621544",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "ruedecommerce",
+        "channel": "fr",
+        "source_product_id": "MKR00003999066",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2621544",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

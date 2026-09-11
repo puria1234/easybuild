@@ -1,0 +1,26 @@
+{
+  "opendb_id": "9b14644a-6ce1-485e-b4e6-523c14069438",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "ROCCAT Kave XTD 5.1 Gaming Headset Premium 5.1 Channel",
+    "manufacturer": "ROCCAT",
+    "part_numbers": ["ROC-14-160"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ROC-14-160",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

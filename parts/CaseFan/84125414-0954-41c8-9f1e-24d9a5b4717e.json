@@ -1,0 +1,90 @@
+{
+  "opendb_id": "84125414-0954-41c8-9f1e-24d9a5b4717e",
+  "size": 120,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 14.86,
+  "max_airflow": 58.1,
+  "min_noise_level": 10,
+  "max_noise_level": 30.4,
+  "pwm": true,
+  "led": "White",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 2.9,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Corsair ML Elite 120mm White PWM",
+    "manufacturer": "Corsair",
+    "part_numbers": ["CO-9050113-WW"],
+    "series": "ML",
+    "variant": "120mm White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0840006640080",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "CO-9050113-WW",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "840006640080",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "cenowarka",
+        "channel": "pl",
+        "source_product_id": "2624134",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "geizhals",
+        "channel": "de",
+        "source_product_id": "2624134",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "9SIBWFCKBN8161",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "9SIBWFCKBN8161",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "quzo",
+        "channel": "uk",
+        "source_product_id": "299677",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "skinflint",
+        "channel": "uk",
+        "source_product_id": "2624134",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

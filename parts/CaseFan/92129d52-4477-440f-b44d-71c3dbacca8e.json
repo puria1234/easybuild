@@ -1,0 +1,31 @@
+{
+  "opendb_id": "92129d52-4477-440f-b44d-71c3dbacca8e",
+  "size": 92,
+  "color": ["BLACK", "YELLOW"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": null,
+  "max_airflow": null,
+  "min_noise_level": 11.5,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Coolink SWiF2-92P 92mm Black / Yellow PWM",
+    "manufacturer": "Coolink",
+    "part_numbers": [],
+    "series": "SWiF2-92P",
+    "variant": "92mm Black / Yellow"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

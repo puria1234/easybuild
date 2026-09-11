@@ -1,0 +1,26 @@
+{
+  "opendb_id": "6bdc1cf8-1684-4ad8-80ca-65f704e11544",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Skullcandy Hesh 3 Closed-Back Headphones",
+    "manufacturer": "Skullcandy",
+    "part_numbers": ["S6HTW-K033"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "S6HTW-K033",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

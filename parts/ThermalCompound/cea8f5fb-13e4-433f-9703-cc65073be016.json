@@ -1,0 +1,20 @@
+{
+  "opendb_id": "cea8f5fb-13e4-433f-9703-cc65073be016",
+  "metadata": {
+    "name": "ARCTIC MX-2 65g Thermal Paste",
+    "manufacturer": "ARCTIC",
+    "part_numbers": ["ACTCP00006B"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ACTCP00006B",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "c917928e-457f-4381-8899-ffe3fe861c26",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Skullcandy Crusher Closed Headphones",
+    "manufacturer": "Skullcandy",
+    "part_numbers": ["S6SCHX-459"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "S6SCHX-459",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "c3fb3adc-07d4-44a7-ab4e-acc68bc33ead",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Altec Lansing MZX736W Closed In-Ear Headphones with Microphone",
+    "manufacturer": "Altec Lansing",
+    "part_numbers": ["MZX736W"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MZX736W",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

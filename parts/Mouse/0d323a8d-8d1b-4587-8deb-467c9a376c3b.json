@@ -1,0 +1,19 @@
+{
+  "opendb_id": "0d323a8d-8d1b-4587-8deb-467c9a376c3b",
+  "connectivity": ["Wireless 2.4GHz"],
+  "lighting": [],
+  "grip_types": [],
+  "metadata": {
+    "name": "VGN Dragonfly 3 Master",
+    "manufacturer": "VGN",
+    "part_numbers": [],
+    "series": "Dragonfly 3",
+    "variant": "Master"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "0a96da11-391d-4b1d-a170-212da8d12d3d",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 95,
+  "max_airflow": null,
+  "min_noise_level": 36,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Cooler Master JetFlo 120mm Black 95 CFM PWM 1-Pack",
+    "manufacturer": "Cooler Master",
+    "part_numbers": [],
+    "series": "JetFlo",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "opendb_id": "9f14e64c-4625-4bd4-bef7-cf91043ad4d4",
+  "metadata": {
+    "name": "Rosewill RCX-TC090PRO 20g Thermal Paste",
+    "manufacturer": "Rosewill",
+    "part_numbers": ["RCX-TC090PRO", "RCX-TC001"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "ean",
+        "value": "0898745014273",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "RCX-TC001",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "RCX-TC090PRO",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "898745014273",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

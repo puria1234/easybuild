@@ -1,0 +1,23 @@
+{
+  "opendb_id": "68db636b-27e9-45a7-b9b0-ae1b64ced696",
+  "lighting": [],
+  "features": [],
+  "connectivity": [],
+  "metadata": {
+    "name": "i-rocks BT-6460-BK Bluetooth Slim Keyboard",
+    "manufacturer": "i-rocks",
+    "part_numbers": ["BT-6460-BK"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "BT-6460-BK",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

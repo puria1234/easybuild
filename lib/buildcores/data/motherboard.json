@@ -1,0 +1,6249 @@
+[
+  {
+    "id": "00242b55-08dd-451a-98ec-07c5a5f7054e",
+    "category": "motherboard",
+    "name": "MSI B850 PRO B850M-VC WIFI6E AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "00a76de3-ab0b-4444-b418-c7201b8fd560",
+    "category": "motherboard",
+    "name": "ASROCK X870 Challenger WIFI",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GWMBRZDM"
+  },
+  {
+    "id": "011e1664-de3e-4923-9e24-1ba2dbb138e6",
+    "category": "motherboard",
+    "name": "MSI PRO B650M-P",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0C7SJFDXK"
+  },
+  {
+    "id": "015dcb05-332e-4cad-8696-9b169b99652c",
+    "category": "motherboard",
+    "name": "ASRock B850 Pro RS WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DRTVDVVK"
+  },
+  {
+    "id": "01be04cd-4dba-4d95-b06c-4f24846a60fe",
+    "category": "motherboard",
+    "name": "ASUS X870 MAX GAMING WIFI7 W AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F8JZJ2ZJ"
+  },
+  {
+    "id": "01d8591a-1ea5-4e88-9901-5b49d03f05ed",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E EAGLE X3D WIFI7",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GQGBLY4J"
+  },
+  {
+    "id": "0215085b-5ad3-4bcb-a4b1-4cff9f083ec9",
+    "category": "motherboard",
+    "name": "Gigabyte B650M C AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "02426428-a50d-4d40-8de2-1805414b11e3",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650-PLUS",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "0246829c-801b-427c-b658-5b50b24e9a06",
+    "category": "motherboard",
+    "name": "Asus PRIME B650-PLUS WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DGWQ128D"
+  },
+  {
+    "id": "024da227-8ff0-4630-8393-8693468c973b",
+    "category": "motherboard",
+    "name": "Gigabyte B850 AI TOP AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DQLJVH25"
+  },
+  {
+    "id": "026d94aa-0a9c-4db2-896a-69e6d23a71fc",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-A II-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BSP5ZLD9"
+  },
+  {
+    "id": "0317ca7d-fa7c-4c20-a8a0-f100db9990cd",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850-BTF WIFI W AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F7WF2WG9"
+  },
+  {
+    "id": "034a0f7a-a5a5-4ea6-8f2a-cb49cce48c98",
+    "category": "motherboard",
+    "name": "MSI B650 GAMING PLUS WIFI DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C3R2TXHJ"
+  },
+  {
+    "id": "052ea2fa-a3ef-42bc-95a9-b750ddc702f9",
+    "category": "motherboard",
+    "name": "MSI B850M MAG MORTAR WIFI AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F4Q45RKX"
+  },
+  {
+    "id": "06924f1a-9f50-4ad4-8057-cde3d0525db7",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-I GAMING WIFI7 W AM5 DDR5 Mini-ITX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "0702c7e0-d250-48cc-97b5-ea2ec49dcca5",
+    "category": "motherboard",
+    "name": "Asus TUF GAMING B650-E WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DD5MKXPD"
+  },
+  {
+    "id": "07983a48-f666-4bd0-bab9-5e65e1dc4660",
+    "category": "motherboard",
+    "name": "Gigabyte B650E AORUS TACHYON DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "08b9baf8-ad87-4ba4-bcba-a6356efbd2c4",
+    "category": "motherboard",
+    "name": "MSI B850 PRO B850-VC WIFI6E AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "09cd6dc9-a9d1-4088-92bc-85595b7520b6",
+    "category": "motherboard",
+    "name": "MSI MPG X870E CARBON MAX WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GT76P75L"
+  },
+  {
+    "id": "0a08dcb5-c8a3-46ac-a9c3-64ba5483c9cc",
+    "category": "motherboard",
+    "name": "MSI B650 PRO B650M-A AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "0b273a12-6a2c-49af-92a1-be686e205ff2",
+    "category": "motherboard",
+    "name": "MSI MAG X870E TOMAHAWK MAX WiFi",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DT55ZJM7"
+  },
+  {
+    "id": "0bc0977d-38f3-4a4b-a7b8-edfc35c6c967",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-A AX6 II",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "0c3ce735-be2a-4ff4-b7c6-70f304e75a58",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME A620AM-K-CSM AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "0cb87ff7-d128-4ca0-8de9-4e287d0ee12f",
+    "category": "motherboard",
+    "name": "Gigabyte B840M D2H AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1
+  },
+  {
+    "id": "0d1590d1-2ebc-445c-aa24-5c9b7a1a2659",
+    "category": "motherboard",
+    "name": "SAPPHIRE NITRO+ B850A WIFI 7 AM5 DDR5 ATX",
+    "brand": "Sapphire",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GCJQFJ7H"
+  },
+  {
+    "id": "0d3fe988-d94b-4b8e-b6e9-0b050c88ec91",
+    "category": "motherboard",
+    "name": "GIGABYTE B650 AORUS ELITE AX AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BH7GTY9C"
+  },
+  {
+    "id": "0d84e1ec-e4f9-4e58-969f-0758bd3fec83",
+    "category": "motherboard",
+    "name": "Biostar B650 MT AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "0e2dc9dc-e20e-4d58-826c-4962b12ac4db",
+    "category": "motherboard",
+    "name": "GIGABYTE B850 GAMING X WIFI6E AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DQLH22F6"
+  },
+  {
+    "id": "0eb293d4-4eeb-4111-adf7-7fa3d83dac92",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870-F GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGQ91QLK"
+  },
+  {
+    "id": "0f43ea60-486a-400f-8e36-3a33ad802bcb",
+    "category": "motherboard",
+    "name": "ASUS B850M-E AYW GAMING WIFI-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2
+  },
+  {
+    "id": "10f9fe86-025b-4511-98ee-328c9f483496",
+    "category": "motherboard",
+    "name": "ASUS B850 MAX GAMING WIFI-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "120f0a13-e633-4a3e-a8a2-98e9c98d708c",
+    "category": "motherboard",
+    "name": "ASRock B650M-H/M.2+ AM5 DDR5 Micro-ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CJTB2QV2"
+  },
+  {
+    "id": "121dfe99-10a0-4925-8cdf-0d4f8771c300",
+    "category": "motherboard",
+    "name": "Gigabyte B650M GAMING WIFI6E AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "1239bc12-2d2f-4148-ab1c-b41b41a75136",
+    "category": "motherboard",
+    "name": "AsRock B850M Pro RS WiFi White",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FJHT72ZR"
+  },
+  {
+    "id": "13a859c2-45e5-41ff-958e-185d473db10c",
+    "category": "motherboard",
+    "name": "GIGABYTE A620I AX AM5 DDR5 MINI-ITX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CFK3HGCL"
+  },
+  {
+    "id": "13da3011-8191-47e8-9b49-72d72b7e7c50",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-A GAMING WIFI7 NEO AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GKGT264T"
+  },
+  {
+    "id": "1450023c-52f2-4277-9465-7e5e0dfd4382",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-A AX6",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "149e1240-d571-4c21-89e9-4f566cefb62c",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850-PLUS WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0F6H6QQVM"
+  },
+  {
+    "id": "17ddc32d-7c9f-4476-a0ab-69c49206d4fc",
+    "category": "motherboard",
+    "name": "ASRock X670E Pro RS AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 4,
+    "url": "https://www.newegg.com/p/N82E16813162069"
+  },
+  {
+    "id": "198724ee-bbf9-478f-ad19-3f80695e2bbe",
+    "category": "motherboard",
+    "name": "MSI B650M GAMING PLUS WIFI DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "1a2236a4-508d-43cb-a19b-015339816362",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B650E-F GAMING WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0BHMTYZKZ"
+  },
+  {
+    "id": "1b7897d4-6e59-45c6-b28f-b1a557f67629",
+    "category": "motherboard",
+    "name": "ASUS X670E PRIME PRO WIFI-CSM AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 5
+  },
+  {
+    "id": "1b8060aa-1d40-48cb-bf2e-0bef4f0967d1",
+    "category": "motherboard",
+    "name": "Biostar B650M X3D PRO+ AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "1b9ffcfd-ba59-4574-a75a-f630ccd8611a",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850M-PLUS II",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B09CMGNGLV"
+  },
+  {
+    "id": "1bbe85c4-c670-42b7-b893-f93dea1e68e9",
+    "category": "motherboard",
+    "name": "MSI B650 GAMING PLUS AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "1c8483ac-3e42-4dd3-80bb-b7f9a4bbeebf",
+    "category": "motherboard",
+    "name": "Biostar A620 MP-E PRO AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "1cd02388-90bf-48ec-a11a-d905a7f99702",
+    "category": "motherboard",
+    "name": "MSI B650M PROJECT ZERO AM5 DDR5 Micro-ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CPWQY9Y4"
+  },
+  {
+    "id": "1d6e7779-ef87-4c3a-94e9-1bdff03b013b",
+    "category": "motherboard",
+    "name": "ASRock X870 Phantom Gaming Riptide WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DG4K31QP"
+  },
+  {
+    "id": "1d95be1f-b3a7-47ba-891d-64d843b8e4ab",
+    "category": "motherboard",
+    "name": "MSI X870E PRO-P WIFI DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F679V3LP"
+  },
+  {
+    "id": "1eabe5ea-2453-4715-aec1-6fb3083402cf",
+    "category": "motherboard",
+    "name": "Gigabyte B650 M D2HP (rev. 1.2) AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "1f27a31a-be45-440a-91cd-992a7203c518",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870E-E GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DDZNZF76"
+  },
+  {
+    "id": "2048f9cc-f5dc-4a1d-b9e0-04fa8b7ce0fe",
+    "category": "motherboard",
+    "name": "ASRock B850 LiveMixer WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DRTV5QK8"
+  },
+  {
+    "id": "20933494-dc80-4aaf-a0e0-d898bd85cce7",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-F-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "20f4395d-a4ed-4755-bcd6-7ebc13e66213",
+    "category": "motherboard",
+    "name": "Gigabyte B650 M D2H AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "211f259d-b61c-4add-949c-2345f17717a0",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850M-PLUS WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DPLQQ7VJ"
+  },
+  {
+    "id": "212de2eb-3ed6-4967-b25d-1914ce264282",
+    "category": "motherboard",
+    "name": "Gigabyte X870E AORUS MASTER AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGVSW4FD"
+  },
+  {
+    "id": "2172aa2d-da83-4f8c-9b8b-345da4387773",
+    "category": "motherboard",
+    "name": "Gigabyte X870E AORUS PRO ICE",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGVBSLLP"
+  },
+  {
+    "id": "2266258e-9875-4052-9417-50a160282e60",
+    "category": "motherboard",
+    "name": "Asus A620 Pro A620M-DASH-CSM AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "22a950b5-97e6-41d3-a8bd-28b549be7bdd",
+    "category": "motherboard",
+    "name": "GIGABYTE B650E AORUS MASTER",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BH7X5VW3"
+  },
+  {
+    "id": "2493b3ae-66c0-4a09-829c-bb8aa18d5b1e",
+    "category": "motherboard",
+    "name": "MSI PRO B850M-B GEN4",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 1
+  },
+  {
+    "id": "2539b4df-18e7-4a5c-9e07-80edf9d30e10",
+    "category": "motherboard",
+    "name": "GIGABYTE X870 AORUS STEALTH AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GDM6MD5T"
+  },
+  {
+    "id": "253cc254-4cf4-4218-9bcd-3a71df08ace8",
+    "category": "motherboard",
+    "name": "MSI AMD B650 PRO B650-VC WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "25b1c3d6-0675-4f3c-9032-c516c3858a66",
+    "category": "motherboard",
+    "name": "ASRock B850 M-X R2.0 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FH319HHD"
+  },
+  {
+    "id": "25df8181-0940-480a-a33a-5693fe67c4df",
+    "category": "motherboard",
+    "name": "MSI A620 PRO A620M-B AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0DQ5DXZF7"
+  },
+  {
+    "id": "265100d3-3431-4719-ba34-c163ae796cc2",
+    "category": "motherboard",
+    "name": "MSI MAG B850 TOMAHAWK WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0G3SVRLT3"
+  },
+  {
+    "id": "26638e1d-9239-4909-ab05-d3ea6057fbdc",
+    "category": "motherboard",
+    "name": "Asus ROG STRIX B650E-I GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BHHVC3BS"
+  },
+  {
+    "id": "266430eb-2b7b-4977-931e-b3c5376b7642",
+    "category": "motherboard",
+    "name": "Asus PRIME X870-P WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DDZY6HTW"
+  },
+  {
+    "id": "26a08e6a-dd24-4182-93ba-9b6924f5ec95",
+    "category": "motherboard",
+    "name": "ASRock B850 Challenger WiFi White DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "26df293d-2d6d-4591-bf88-e3d273df7db3",
+    "category": "motherboard",
+    "name": "Gigabyte B650 AORUS ELITE AX ICE DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CMJSH15D"
+  },
+  {
+    "id": "279633c5-1d6d-4d58-ad65-7570bbcc90e2",
+    "category": "motherboard",
+    "name": "MSI MAG B850 GAMING PLUS MAX WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GKQNFLY4"
+  },
+  {
+    "id": "2820266e-779d-4dcc-8dde-28a98a326a2e",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-A",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "28663dbc-2b9b-4d21-914b-5458f90dd248",
+    "category": "motherboard",
+    "name": "Asus PRIME B650-PLUS-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "28890f1f-e212-4d60-8267-173702196647",
+    "category": "motherboard",
+    "name": "ASUS B650EM MAX GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 4
+  },
+  {
+    "id": "2977fc3a-64e2-4500-990c-a1be01867ddc",
+    "category": "motherboard",
+    "name": "Gigabyte B850 AORUS ELITE WIFI7 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DQLHVQSF"
+  },
+  {
+    "id": "298c751b-0531-47d2-9918-223b8aaec12c",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING A620M-PLUS WIFI AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0C3ZPLNTH"
+  },
+  {
+    "id": "29c3dafb-51e6-4f44-919c-bde84096c884",
+    "category": "motherboard",
+    "name": "ASROCK B650 LIVEMIXER AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BHDPGF4H"
+  },
+  {
+    "id": "2b234680-47cb-4d9d-aa8d-cf120ec97092",
+    "category": "motherboard",
+    "name": "ASUS EX-B650EM-V7 PLUS-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "2bff1475-20d0-4e5b-8942-a204cc15b83f",
+    "category": "motherboard",
+    "name": "Asus B840 PRIME M-A WIFI DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0DP5GGZYK"
+  },
+  {
+    "id": "2c9a181c-63c1-44b0-aca4-c228ad203f17",
+    "category": "motherboard",
+    "name": "Biostar B650 MXC PRO DDR5 Micro ATX AM5",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "2c9bf03b-58c9-4bc0-be31-d63863ac6a2a",
+    "category": "motherboard",
+    "name": "Biostar B650 MS2 AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "2d004a60-7a83-43bb-9061-398636af4287",
+    "category": "motherboard",
+    "name": "MSI MEG X870E UNIFY-X MAX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5
+  },
+  {
+    "id": "2dbc4e14-67a1-4ce4-80c4-90a29cca18bf",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GP9Q4Z7X"
+  },
+  {
+    "id": "2ee428cb-f1ac-4948-b54f-f386b853dfba",
+    "category": "motherboard",
+    "name": "ASROCK B850M-X AM5 DDR5 MICRO ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DS6M5XV6"
+  },
+  {
+    "id": "302dc909-b5ec-47ac-a205-02b7ee102600",
+    "category": "motherboard",
+    "name": "MSI B850 PRO B850M-P WIFI AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0F97T7ZGR"
+  },
+  {
+    "id": "303429d5-887f-4cf2-84a6-fd6c96e40d0c",
+    "category": "motherboard",
+    "name": "MSI PRO A620M-E AM5 DDR5 Micro-ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0C15SRJNM"
+  },
+  {
+    "id": "31185d6a-b39e-45fd-9e33-254257a9d16c",
+    "category": "motherboard",
+    "name": "Asus ROG STRIX X870-A GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DF12WKQY"
+  },
+  {
+    "id": "326e6c5c-8d5a-4399-96ba-51794cf8c4c3",
+    "category": "motherboard",
+    "name": "MSI PRO B850-P WIFI ATX AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DQB38PL5"
+  },
+  {
+    "id": "329e74b8-d3d0-456d-895e-0a4bf2b35fea",
+    "category": "motherboard",
+    "name": "GIGABYTE X670E AORUS PRO X AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0CN76TH9S"
+  },
+  {
+    "id": "33274b3d-7022-40f7-8665-01220496f1b2",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-F GAMING WIFI7 NEO",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GP6DW3QP"
+  },
+  {
+    "id": "3434faa3-cf8e-43ba-bea4-968c8b7845f8",
+    "category": "motherboard",
+    "name": "ASRock B850 M-X WiFi R2.0 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0F3NDZF19"
+  },
+  {
+    "id": "34782783-8f5d-413e-a676-b59ca50069c9",
+    "category": "motherboard",
+    "name": "ASRock B650M Pro RS WiFi AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0C5Y4SRKF"
+  },
+  {
+    "id": "34f146bc-959e-4ed2-b32d-eead7ce0a99b",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850I WIFI NEO",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "3523aa56-5f72-4284-b3a8-c3b8e63c70a3",
+    "category": "motherboard",
+    "name": "Gigabyte B650 AORUS ELITE AX V2 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CMK1W2YX"
+  },
+  {
+    "id": "3549263f-18ed-48a5-94be-163083cd3376",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850M-A WIFI-CSM AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FBBW1YRW"
+  },
+  {
+    "id": "3624008a-8c9e-43e1-b282-2bf5c9ebe4eb",
+    "category": "motherboard",
+    "name": "ASRock B850 Pro-A WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DS6LNYGN"
+  },
+  {
+    "id": "36ca7748-ff66-49aa-8862-9aefa066ed50",
+    "category": "motherboard",
+    "name": "ASROCK PHANTOM GAMING B650I LIGHTNING WIFI AM5 DDR5 MINI ITX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CKWVHW69"
+  },
+  {
+    "id": "3721111e-0f38-4b88-973e-687b9bef82c3",
+    "category": "motherboard",
+    "name": "Gigabyte A620M GAMING X AX AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0C4ZWXVXN"
+  },
+  {
+    "id": "38364410-ea73-4af6-897d-d211c3ac2740",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850-PLUS-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "383fc090-d2ab-454c-afb3-47716518b40d",
+    "category": "motherboard",
+    "name": "MSI PRO A620AM-B EVO",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620A"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0GD87JQHQ"
+  },
+  {
+    "id": "38461941-af56-4c21-a1c0-eac865f91deb",
+    "category": "motherboard",
+    "name": "AsRock B850M Challenger WiFi White",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GNCWJ2LW"
+  },
+  {
+    "id": "38e24ccf-2e35-4ca8-bc5a-15fa47686193",
+    "category": "motherboard",
+    "name": "ASUS B850M AYW GAMING WIFI-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5
+  },
+  {
+    "id": "38ff9056-84da-43d5-bed3-1129eddc70e0",
+    "category": "motherboard",
+    "name": "ASROCK A620AI WIFI AM5 DDR5 MINI ITX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD A620A"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0FJHMGM7N"
+  },
+  {
+    "id": "3b4d6646-7bfa-4bd7-aaa6-05f9eca7cc2f",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850M-PLUS",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DP5DGMH8"
+  },
+  {
+    "id": "3b4e7120-4469-4711-8e82-42257c906e3b",
+    "category": "motherboard",
+    "name": "Biostar B850 MT-E PRO AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 1
+  },
+  {
+    "id": "3b95e11b-bf0b-4b6b-8773-113b5548c0f1",
+    "category": "motherboard",
+    "name": "Gigabyte B850M AORUS ELITE AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "3bf6cd57-458f-4d3e-a170-689b24530180",
+    "category": "motherboard",
+    "name": "Biostar AMD A620 A620MHC AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "3c7414bf-5109-4bdc-9984-096b1cadf4b6",
+    "category": "motherboard",
+    "name": "Biostar A620 MS-E AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "3d70f8a4-8af4-45a3-bf28-2dbeeaba15ba",
+    "category": "motherboard",
+    "name": "Biostar B650E GTQ AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 2
+  },
+  {
+    "id": "3df4ebf0-30c9-4d36-aa8c-144fb7219f86",
+    "category": "motherboard",
+    "name": "MAXSUN B650 eSport ITX WIFI ICE DDR5 Mini ITX",
+    "brand": "MAXSUN",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "3e2fe256-bec4-41db-b47e-4960ecbd4798",
+    "category": "motherboard",
+    "name": "Gigabyte B850M AORUS ELITE WIFI7 ICE-P DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "3e591640-f5b2-4894-b278-b7bc8cf73f92",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E AERO X3D WOOD AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GDM6M9KB"
+  },
+  {
+    "id": "3e8a49cf-2203-4ee7-89f8-a8a8386f7fb3",
+    "category": "motherboard",
+    "name": "Gigabyte B850 AORUS ELITE WIFI7 ICE DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DQLKRXKW"
+  },
+  {
+    "id": "3ec4a4df-70d6-474f-9c99-2e74518d859c",
+    "category": "motherboard",
+    "name": "Asus EX-B650M-V7",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "3f5c45ca-4ada-4727-9285-fbbf7e2d1bb1",
+    "category": "motherboard",
+    "name": "Gigabyte B650 UD AC AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0CTNYTX8Y"
+  },
+  {
+    "id": "4012e988-3632-4f2c-a997-9eda8527c8ef",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650EM-A-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "4034ed27-dc29-40ef-a1ed-11a9fdde7110",
+    "category": "motherboard",
+    "name": "ASRock B650E PG-ITX WIFI AM5 DDR5 Mini ITX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BK5515B9"
+  },
+  {
+    "id": "40ca0343-5ecd-4f31-a019-1c94e315f7a9",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870E-H GAMING WIFI7 HATSUNE MIKU EDITION AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FW5TT48Z"
+  },
+  {
+    "id": "40de0ea8-c10c-4cd4-b399-15a896f54eed",
+    "category": "motherboard",
+    "name": "Asus AMD A620 PRIME A620M-E-CSM AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "40e2c4cb-542c-418d-8430-424063ec340c",
+    "category": "motherboard",
+    "name": "MAXSUN B650M Challenger WIFI ICE AM5 DDR5 Micro ATX",
+    "brand": "MAXSUN",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "40fccbaa-0819-4640-b46d-693aa26f4d86",
+    "category": "motherboard",
+    "name": "MSI B840 PRO VC WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 2
+  },
+  {
+    "id": "41073333-2a74-4549-b67b-ed5c3ba7498c",
+    "category": "motherboard",
+    "name": "MSI B850 PRO VC WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "41de9fa9-7643-4a95-ae0f-ee01e64a0010",
+    "category": "motherboard",
+    "name": "ASUS ProArt B850-CREATOR WIFI NEO",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GWNPPMWG"
+  },
+  {
+    "id": "420c0967-41ba-44f5-8683-789484498181",
+    "category": "motherboard",
+    "name": "ASRock B850 Challenger WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "42464c95-0c03-403d-b724-2c13e99b466d",
+    "category": "motherboard",
+    "name": "ASRock A620 M-HDV/M.2+ AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C1ZZDZTJ"
+  },
+  {
+    "id": "4255670b-2248-4c8e-89bf-76d48ba4ee02",
+    "category": "motherboard",
+    "name": "Gigabyte B840 GAMING X WIFI6E DDR5 ATX AM5",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 2
+  },
+  {
+    "id": "4287f1fa-24a0-47ba-8248-2ec9c27975d8",
+    "category": "motherboard",
+    "name": "MSI B650 B650M GAMING WIFI AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CTSQ7734"
+  },
+  {
+    "id": "42cfc9f6-6be8-4bd6-9c89-d427716a7afc",
+    "category": "motherboard",
+    "name": "MSI B850M GAMING PLUS WIFI DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0F9JFMR1R"
+  },
+  {
+    "id": "43bae772-f491-41d8-abbb-4dafa7496121",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650EM-E WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FDS4VNL7"
+  },
+  {
+    "id": "43db8139-ffa6-4fc5-9e62-ab66706115b3",
+    "category": "motherboard",
+    "name": "NZXT X870E N9 AM5 DDR5 ATX",
+    "brand": "NZXT",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DZF1VQ3K"
+  },
+  {
+    "id": "4407a667-1c6a-4732-80c0-d989626184ff",
+    "category": "motherboard",
+    "name": "Asus A620 A620M-F GAMING WIFI AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "452568f4-77dc-48f5-9303-fca19ef8e0c4",
+    "category": "motherboard",
+    "name": "GIGABYTE B850M AORUS STEALTH ICE",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "459986a6-4c2b-4aec-bbbf-d604f8c470ea",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650M-E WIFI AM5 DDR5 MICRO-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0C6HXLPJP"
+  },
+  {
+    "id": "460bc38c-00e6-4bc4-92fb-d2178837ac19",
+    "category": "motherboard",
+    "name": "Biostar B650 MP-E PRO DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "48ac14df-b708-4c3a-b97d-6c1ebf07214b",
+    "category": "motherboard",
+    "name": "Gigabyte B650M H AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "48b63b34-ce2f-479d-b46c-b74c572e99bf",
+    "category": "motherboard",
+    "name": "Asus TUF GAMING B650M-PLUS WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHMW2L8B"
+  },
+  {
+    "id": "4908ca77-5a92-4784-8632-249ef7302173",
+    "category": "motherboard",
+    "name": "Gigabyte X870 AORUS ELITE WIFI7 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGVC3DDW"
+  },
+  {
+    "id": "497c778e-d623-46df-b33b-873b4ce9e834",
+    "category": "motherboard",
+    "name": "Asus A620 A620M-AYW WIFI AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2
+  },
+  {
+    "id": "497d3cbc-1390-40f5-a458-75460856f041",
+    "category": "motherboard",
+    "name": "MSI B850M GAMING WIFI AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "49bf1bb8-52e5-4511-8fd4-db816e7208d7",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-F GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DP5FTZFD"
+  },
+  {
+    "id": "4a24cd82-63b5-453a-a0ca-669be507367b",
+    "category": "motherboard",
+    "name": "MSI MAG B850 TOMAHWAK WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0G3SVRLT3"
+  },
+  {
+    "id": "4a89b6b5-ad48-4a54-80e5-db779b3ac6f9",
+    "category": "motherboard",
+    "name": "MSI B850 PRO B850M-A AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "4ab7931f-4092-4e0c-8744-5c0c93c6e2a0",
+    "category": "motherboard",
+    "name": "MSI B840 PRO M-P WIFI6E AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B096Y53VL8"
+  },
+  {
+    "id": "4b921766-716c-4d4d-9cdd-c216b6ce8277",
+    "category": "motherboard",
+    "name": "Asus B840 PRIME-PLUS WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DPLQ1LT7"
+  },
+  {
+    "id": "4c9a18a5-49c2-4744-a2ff-f08dcf6dec43",
+    "category": "motherboard",
+    "name": "GIGABYTE X670 GAMING X AX V2 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0CNR8Y29S"
+  },
+  {
+    "id": "4dd7dabd-5970-44b1-802e-16ab91a41065",
+    "category": "motherboard",
+    "name": "COLORFUL X870 iGame Senna V14 AM5 DDR5 ATX",
+    "brand": "Colorful",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4
+  },
+  {
+    "id": "4e201f81-35fb-46eb-a668-cc4051e5cced",
+    "category": "motherboard",
+    "name": "Gigabyte B650 AORUS PRO AX AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BJDWH2PM"
+  },
+  {
+    "id": "4efee559-eefa-49a7-a529-3bdf186e622b",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650E-E WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FBMMDMY6"
+  },
+  {
+    "id": "4f45e844-22c4-463e-a7af-9237bb595363",
+    "category": "motherboard",
+    "name": "ASRock B650M Pro X3D DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "50efd45c-baa4-4bf0-b437-2c2a43741c91",
+    "category": "motherboard",
+    "name": "Gigabyte B850 AORUS STEALTH ICE AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FDL97CNB"
+  },
+  {
+    "id": "512aeb9f-634a-44dd-b3f4-0ff5f94d67a7",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850M-K",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5
+  },
+  {
+    "id": "516eb6ec-fcbd-47b5-8849-e32ad47ca739",
+    "category": "motherboard",
+    "name": "Gigabyte B850M C AM5 WIFI DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "51c39a4e-340f-46da-8fc5-1bc9505c8902",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E AORUS MASTER X3D AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GDMF3NK1"
+  },
+  {
+    "id": "5249e76b-f3d3-4224-890b-b5c072c39333",
+    "category": "motherboard",
+    "name": "ASRock Phantom Gaming B850I Lightning WiFi AM5 DDR5 Mini ITX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DRTVR12D"
+  },
+  {
+    "id": "528a9aa8-54de-4774-8c6a-ea8449f2e21b",
+    "category": "motherboard",
+    "name": "Gigabyte B650E AORUS MASTER AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BJF8567F"
+  },
+  {
+    "id": "536bd956-e344-44d0-ad01-be5fe363b42d",
+    "category": "motherboard",
+    "name": "MSI B850 PRO M-A WIFI PZ AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.newegg.com/p/N82E16813144721R"
+  },
+  {
+    "id": "53948cf8-065d-4d92-80bd-6e5b78ec161b",
+    "category": "motherboard",
+    "name": "ASRock B650 Steel Legend WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0CXPXBF2M"
+  },
+  {
+    "id": "539f541e-58b0-4d8a-918b-24b539cf412e",
+    "category": "motherboard",
+    "name": "Gigabyte X870 GAMING WIFI6 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DHWLN5XT"
+  },
+  {
+    "id": "53b2330a-bf69-4ce9-8d3b-aabcfd07218c",
+    "category": "motherboard",
+    "name": "Gigabyte B850M FORCE WIFI6E AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FH29B7XW"
+  },
+  {
+    "id": "546f7ddf-4152-4185-921e-39fbcc287919",
+    "category": "motherboard",
+    "name": "Gigabyte X870M AORUS ELITE WIFI7 ICE AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4
+  },
+  {
+    "id": "54b5bcaf-04c8-4c97-8ee9-5048e17599e8",
+    "category": "motherboard",
+    "name": "ASRock X670E PG Lightning DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "54e1d919-978c-4c71-8c63-0da01e335058",
+    "category": "motherboard",
+    "name": "Biostar A620 MT AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "559dd16f-e58d-4214-bc52-df59fd890ded",
+    "category": "motherboard",
+    "name": "Asus X870E ProArt CREATOR WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DF123GCV"
+  },
+  {
+    "id": "57330c89-5d4b-496e-903f-93cf231ef845",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-A WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "578fa78a-0ece-4592-ac81-d9bfbf4ace8e",
+    "category": "motherboard",
+    "name": "ASRock B650 Pro RS WiFi DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0D2CRJ9GY"
+  },
+  {
+    "id": "57c9d21a-bda9-427e-8122-b430ab298285",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850-E WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F1Z3YZN4"
+  },
+  {
+    "id": "5840cd61-ccb6-4680-b10d-c83b071e0af2",
+    "category": "motherboard",
+    "name": "AsRock X870 Challenger WIFI White",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GWM7NRL8"
+  },
+  {
+    "id": "58889705-aae7-496a-b8b2-41d5384dd309",
+    "category": "motherboard",
+    "name": "MSI MAG X870E GAMING MAX WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GRL3PGDP"
+  },
+  {
+    "id": "58ee73c3-c5b7-4449-ba91-bb93645dd578",
+    "category": "motherboard",
+    "name": "Gigabyte A620 AM C AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "58ffbaf8-23f0-4803-969f-6def2774b697",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME A620-PLUS WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CBQW2C41"
+  },
+  {
+    "id": "592c1752-fdfb-4dc8-9696-149d673da002",
+    "category": "motherboard",
+    "name": "ASRock B650 M-HDV/M.2 White AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "59dc2d5d-a23d-4664-a744-dbc6978d15d7",
+    "category": "motherboard",
+    "name": "MSI PRO B850M-P",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5
+  },
+  {
+    "id": "59eb3a66-ac47-49c2-8107-21f2c6daf51d",
+    "category": "motherboard",
+    "name": "Asus ROG STRIX X870-I GAMING WIFI AM5 DDR5 Mini ITX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DDZWJ1KX"
+  },
+  {
+    "id": "5a99e451-ab4a-4ced-9a70-cad81e6b1934",
+    "category": "motherboard",
+    "name": "GIGABYTE X670 GAMING X AX AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BGPV33YS"
+  },
+  {
+    "id": "5b66ae81-0d00-42c8-8b7c-27b3a25f46aa",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870-I GAMING WIFI AM5 DDR5 Mini-ITX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DDZWJ1KX"
+  },
+  {
+    "id": "5b7a9eb2-db38-44df-8577-8f67c1109369",
+    "category": "motherboard",
+    "name": "Gigabyte B650M AORUS ELITE AX ICE DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B083SJLWL9"
+  },
+  {
+    "id": "5c8e99d1-9608-48fc-9f09-a2e006bea8d3",
+    "category": "motherboard",
+    "name": "MSI B850 GAMING PLUS WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FBT9DYSB"
+  },
+  {
+    "id": "5cd1f8dc-b0e4-4f49-b97e-ff2d3a826957",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870E-E GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DDZNZF76"
+  },
+  {
+    "id": "5ce42d1a-e842-4962-bd79-cfc801f22e22",
+    "category": "motherboard",
+    "name": "ASRock X670E PG Lightning AMD AM5 ATX Motherboard",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BGPH2LQJ"
+  },
+  {
+    "id": "5d2c63c2-8539-4fff-967a-a91fbf1d9133",
+    "category": "motherboard",
+    "name": "Gigabyte B650 Gaming X DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BYTJ5DPQ"
+  },
+  {
+    "id": "5d9ca123-84ec-4335-b528-8d9b1e2ae1ec",
+    "category": "motherboard",
+    "name": "GIGABYTE B650E AORUS STEALTH ICE AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DBQDPLKJ"
+  },
+  {
+    "id": "5e60ab94-d44f-4354-aa6f-6947863cd8bd",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850-PLUS WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DPLPLR88"
+  },
+  {
+    "id": "5f0ab7fd-5e58-4b2b-9627-0f4c517b51d1",
+    "category": "motherboard",
+    "name": "MSI B850 MAG TOMAHAWK MAX WIFI DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DT58JK2W"
+  },
+  {
+    "id": "5f4c5834-24f9-490c-bc2e-bb16cf417c9c",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-E GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DPLQXPG2"
+  },
+  {
+    "id": "6074dd54-fdc7-46d1-87e4-aba51fdd387a",
+    "category": "motherboard",
+    "name": "Gigabyte B650M AORUS ELITE AX DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BJF26RJ4"
+  },
+  {
+    "id": "61541d53-e16b-43f6-8297-9f0f1d4878cf",
+    "category": "motherboard",
+    "name": "MSI PRO X870-P WIFI DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FDXJZH66"
+  },
+  {
+    "id": "620c707a-e527-462a-a5e2-4bbddf41213b",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME A620M-K-CSM DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "626aa752-8a2b-4f35-b910-9c94c3d65cc1",
+    "category": "motherboard",
+    "name": "ASUS B850M MAX GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "6275ae83-7697-4f90-9d82-ff1328b302bb",
+    "category": "motherboard",
+    "name": "Gigabyte X870E AORUS MASTER X3D ICE AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FRV8M4D3"
+  },
+  {
+    "id": "629decc5-2928-462d-92b3-c287ef4705bb",
+    "category": "motherboard",
+    "name": "MSI MEG X870E GODLIKE MAX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0G38W7JCX"
+  },
+  {
+    "id": "62cc75e5-493a-4577-8c0f-1b11c919c96c",
+    "category": "motherboard",
+    "name": "MSI MAG X670E TOMAHAWK WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BYB3PGQW"
+  },
+  {
+    "id": "63cc1b49-4eb8-4e2d-9a10-d2f0f1e8904d",
+    "category": "motherboard",
+    "name": "ASUS B850M AYW GAMING OC WIFI7 W",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "63e93382-e28d-4b0c-94fe-1c45a9e99e90",
+    "category": "motherboard",
+    "name": "MSI B650 PRO M-E DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "64337acc-a687-4676-abb2-777127aaf396",
+    "category": "motherboard",
+    "name": "ASRock B850 B850M Pro RS AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DS6KRZQ9"
+  },
+  {
+    "id": "64405efd-8f27-49be-8c6c-7194e08990b8",
+    "category": "motherboard",
+    "name": "GIGABYTE B850M FORCE WIFI6E V2",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "64469b83-5ebf-4660-8231-0281c5aa319e",
+    "category": "motherboard",
+    "name": "ASUS EX-B850M-V9-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "654dec46-129d-4b44-86dc-e81e20d89175",
+    "category": "motherboard",
+    "name": "Gigabyte X870E AORUS ELITE X3D AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FRTKQCLH"
+  },
+  {
+    "id": "65e6384b-cdaf-4035-88d2-f264073c6307",
+    "category": "motherboard",
+    "name": "Gigabyte B650 S2H DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BZ17BQ4Z"
+  },
+  {
+    "id": "68049c14-c589-4275-852b-b25193273441",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E AERO X3D DARK WOOD AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GYD216Y4"
+  },
+  {
+    "id": "68a4fcfe-6307-409e-894c-b19f31f83cb1",
+    "category": "motherboard",
+    "name": "Gigabyte X870 AORUS STEALTH ICE DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FDL6182M"
+  },
+  {
+    "id": "69253bf2-d9db-4323-8b2a-9084f5863276",
+    "category": "motherboard",
+    "name": "ASRock B850M Pro RS WiFi AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DRTWM32Q"
+  },
+  {
+    "id": "69cdab60-0925-4970-815e-0b5811a3465f",
+    "category": "motherboard",
+    "name": "ASRock X870 Pro-A WiFi DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FCP1RKTG"
+  },
+  {
+    "id": "6a912c4f-e7ff-4fa8-9c57-cd4d587f276a",
+    "category": "motherboard",
+    "name": "NZXT X870E N9 DDR5 ATX",
+    "brand": "NZXT",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DZFD4QQL"
+  },
+  {
+    "id": "6aa1149a-3b2e-4be8-86ac-11068f7ec09f",
+    "category": "motherboard",
+    "name": "Asus A620 TUF GAMING A620AM-PLUS WIFI AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "6aba9f5c-c54d-41d2-babd-75597a5cf30c",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING A620M-PLUS AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620A"
+    },
+    "tier": 1
+  },
+  {
+    "id": "6c50b882-306b-47a0-a615-42ec53e50bc7",
+    "category": "motherboard",
+    "name": "ASRock A620 AM-HVS AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2
+  },
+  {
+    "id": "6c8f3cea-a4e0-4b3d-baa9-0b9f6dbd7e09",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E AORUS PRO X3D AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GDMDVFWT"
+  },
+  {
+    "id": "6ca5feb4-bbf6-4644-b725-7ba35e15143e",
+    "category": "motherboard",
+    "name": "ASUS Pro WS B850M-ACE SE",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FTPDCM57"
+  },
+  {
+    "id": "6ca91b70-bec1-4089-823a-42e63ffd6950",
+    "category": "motherboard",
+    "name": "MSI PRO B850M-A WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FC97YJBR"
+  },
+  {
+    "id": "6cb56c8e-59d6-4ac3-89e2-d29f6d728b5e",
+    "category": "motherboard",
+    "name": "Gigabyte B650 I AX AM5 DDR5 Mini ITX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "6ccd798d-b446-486a-8c34-b2b555b3f7ee",
+    "category": "motherboard",
+    "name": "ASUS PRIME X670-P-CSM AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 3
+  },
+  {
+    "id": "6dc5f53b-6b3e-45f6-a189-68771b1d0634",
+    "category": "motherboard",
+    "name": "Gigabyte B650E AORUS ELITE X AX ICE ATX AM5",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 1
+  },
+  {
+    "id": "6e4b2f24-aea8-43e1-916c-e95b3d66f986",
+    "category": "motherboard",
+    "name": "Gigabyte B850M GAMING X WIFI6E DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DQLHLVLK"
+  },
+  {
+    "id": "70788e54-6298-4a6e-8dfa-18e0a9c4e52f",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-A WIFI-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "70968242-73db-427c-9680-ea3f63e916d4",
+    "category": "motherboard",
+    "name": "Gigabyte X870E AORUS ELITE WIFI7 ICE DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FDL8CFQX"
+  },
+  {
+    "id": "70b91749-bf8a-4d01-8b88-3a9c24b2cb53",
+    "category": "motherboard",
+    "name": "ASUS EX-B850M-V7",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "72179621-b156-4aaf-a070-d0ca8360d17d",
+    "category": "motherboard",
+    "name": "MSI B840 GAMING PLUS WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DQB3RC4H"
+  },
+  {
+    "id": "72491a4f-6849-4272-a4f7-17b71085bd1e",
+    "category": "motherboard",
+    "name": "Gigabyte B650 C V2 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BWSCJDYD"
+  },
+  {
+    "id": "7288ca72-4ed1-4b34-8859-92f5b6803766",
+    "category": "motherboard",
+    "name": "Asus X670E ROG STRIX X670E-A GAMING WIFI DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BDV6RR2K"
+  },
+  {
+    "id": "73111632-dcba-440e-9f10-1bc1fc2d59e7",
+    "category": "motherboard",
+    "name": "AsRock X870E Challenger WIFI",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GV5MC8W5"
+  },
+  {
+    "id": "73d6569f-3103-4de1-a194-f1a3afd2bb39",
+    "category": "motherboard",
+    "name": "ASRock B650M-HDV/M.2 AM5 DDR5 Micro-ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BY6YRT41"
+  },
+  {
+    "id": "7487503d-3292-4989-9a48-010e74dd20f6",
+    "category": "motherboard",
+    "name": "MSI MAG X870E GAMING PLUS MAX WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GKQMNGWP"
+  },
+  {
+    "id": "77a80cb5-c27c-45ff-a083-0b87884e75be",
+    "category": "motherboard",
+    "name": "MSI MAG X870E TOMAHAWK MAX WIFI PZ",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FVQ3NN4C"
+  },
+  {
+    "id": "783fdd5e-0a5e-409f-b523-d03e22709138",
+    "category": "motherboard",
+    "name": "GIGABYTE B650 AORUS PRO AX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BH6G92RX"
+  },
+  {
+    "id": "78872a85-330c-4d92-a90c-6e2118bcafd4",
+    "category": "motherboard",
+    "name": "ASRock B650E PG RIPTIDE WIFI DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3,
+    "url": "https://www.newegg.com/p/N82E16813162079"
+  },
+  {
+    "id": "79bf4e2a-592c-4b1a-bf38-9fe71135c047",
+    "category": "motherboard",
+    "name": "ASRock B850M-X WiFi AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0F3NDZF19"
+  },
+  {
+    "id": "79e31e8a-27c5-4be8-a845-494b51319ec7",
+    "category": "motherboard",
+    "name": "MSI B650 MPG EDGE WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHCD117G"
+  },
+  {
+    "id": "79fa3083-e60c-4f1f-8f48-1b3112934bdf",
+    "category": "motherboard",
+    "name": "Gigabyte A620 S2H (rev. 1.0) DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "7a1440bf-f4d2-4124-90a8-741935831338",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-R-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "7b688013-3fa7-4fcd-9809-04fe664fde3b",
+    "category": "motherboard",
+    "name": "Asus ROG CROSSHAIR X870E HERO WIFI DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DDZSP2BG"
+  },
+  {
+    "id": "7b6b16e0-cfd4-4081-a9ee-9b168c71ea2c",
+    "category": "motherboard",
+    "name": "Gigabyte B650 M C V3 (rev. 1.0) DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "7ce370df-bfe4-45d2-b22a-5fcf55dd0039",
+    "category": "motherboard",
+    "name": "Gigabyte B650 EAGLE AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "7d51c1fe-d7c3-4967-8c23-56f43a68085b",
+    "category": "motherboard",
+    "name": "Gigabyte B650M DS3H AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B083R7MM59"
+  },
+  {
+    "id": "7d55afab-578b-4bbf-8605-777ebdb2987a",
+    "category": "motherboard",
+    "name": "MSI B840 PRO -P WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0DQBK69YZ"
+  },
+  {
+    "id": "7db4ea60-22dc-4c36-b6f0-b3ee90ed07de",
+    "category": "motherboard",
+    "name": "AsRock B850 Rock WIFI7",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GJX3BVYV"
+  },
+  {
+    "id": "7dd67ac0-df01-4c9a-83e8-dacabc3c1ef4",
+    "category": "motherboard",
+    "name": "ASUS PRIME X870-P",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4
+  },
+  {
+    "id": "7de702de-c2b6-4080-9a1b-4540d1807470",
+    "category": "motherboard",
+    "name": "Asus X870 PRIME X870-P-CSM DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DHG35ZYR"
+  },
+  {
+    "id": "7f7be474-a523-4d11-8216-52df0f7dff4f",
+    "category": "motherboard",
+    "name": "Gigabyte B650M AORUS ELITE AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "7f7d46e4-0022-4cd2-8911-c81e9a2c4694",
+    "category": "motherboard",
+    "name": "ASRock A620 AM-X AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "80b865b2-dd34-4404-bfa2-f1cc7ccd94df",
+    "category": "motherboard",
+    "name": "MSI B650 PRO S AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "80d454d2-8a96-40f6-a819-1dcd8f37a498",
+    "category": "motherboard",
+    "name": "MSI X870 MAG TOMAHAWK WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DG3HK897"
+  },
+  {
+    "id": "8100b914-7a9b-4da8-860a-9667a9271d1a",
+    "category": "motherboard",
+    "name": "MSI MPG B850I EDGE TI WIFI AM5 DDR5 Mini-ITX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B096Y46DK1"
+  },
+  {
+    "id": "818ef092-b4e5-4050-9403-16dcf7e7ffed",
+    "category": "motherboard",
+    "name": "Gigabyte X870 EAGLE WIFI7 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DGVMYTW6"
+  },
+  {
+    "id": "81b91145-4db0-4eee-b1a7-fd976d489026",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850M-A WIFI AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FBBW1YRW"
+  },
+  {
+    "id": "82ad8332-c3ce-4387-a1b3-7885972a8794",
+    "category": "motherboard",
+    "name": "ASUS B650M-AYW WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.newegg.com/p/9SIC5MUKUT5776"
+  },
+  {
+    "id": "82fbe527-0ce2-4fd6-865d-d14986d036d8",
+    "category": "motherboard",
+    "name": "MSI B850 PRO M-G AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "835f4a47-295d-4ad3-b15a-6fb8ea53de1f",
+    "category": "motherboard",
+    "name": "Asus TUF GAMING B650-PLUS WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BHN7GGBQ"
+  },
+  {
+    "id": "836326fd-bcc7-4442-b8fb-8018f66c8a85",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850-PLUS",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "8364a2a0-92dd-4906-b02d-e73d39496cf9",
+    "category": "motherboard",
+    "name": "MSI MAG B850 TOMAHAWK MAX WIFI II",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GSH3M4RQ"
+  },
+  {
+    "id": "839bb41a-b642-442e-abf9-d9a00eb9f7ec",
+    "category": "motherboard",
+    "name": "Gigabyte B850M FORCE AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "83b20b6a-42b5-4b35-b2d5-d2fea031a7e6",
+    "category": "motherboard",
+    "name": "Asus B840M MAX GAMING AX AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1
+  },
+  {
+    "id": "83dad60b-3a7e-4ec2-a2c6-2ceb9efd4ce7",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650EM-A",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "84814989-7947-4037-b8b9-9d7bd8a4ffb5",
+    "category": "motherboard",
+    "name": "MSI X670 PRO X670-P WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0B6Q1N477"
+  },
+  {
+    "id": "8522e778-2bf8-4df5-8aec-a378f88583fe",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650M-E",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "861ce60b-341b-46cd-af4f-6fe6481fb646",
+    "category": "motherboard",
+    "name": "Asus X670E ROG STRIX X670E-F GAMING WIFI DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0BDTK4SLH"
+  },
+  {
+    "id": "8647d331-6b3a-49cf-9898-1d0f0817f36a",
+    "category": "motherboard",
+    "name": "ASUS B650M-AYW WIFI-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "87348320-5052-4e54-a692-a7dcd05496d4",
+    "category": "motherboard",
+    "name": "ASRock B850 Steel Legend WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DRTTJ5D6"
+  },
+  {
+    "id": "87653f27-5c93-4c34-b79d-517c778a2b78",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-A WIFI II",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BSVDKRKN"
+  },
+  {
+    "id": "87e131f2-3697-4925-bd2a-52f2ad277bab",
+    "category": "motherboard",
+    "name": "MSI PRO B650-P WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHBT5BD3"
+  },
+  {
+    "id": "888d8266-347c-45e3-a0ba-342501effe0b",
+    "category": "motherboard",
+    "name": "ASRock B650M Pro RS WiFi AM5 AMD B650 SATA 6Gb/s Micro ATX Motherboard",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "8950f654-5151-46a1-9793-6c801031ec3b",
+    "category": "motherboard",
+    "name": "Gigabyte B840M DS3H AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0DXFZCJSD"
+  },
+  {
+    "id": "89909bfe-2238-487a-abd9-6aa2f4b915ed",
+    "category": "motherboard",
+    "name": "ASUS B850M-E AYW GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2
+  },
+  {
+    "id": "8aa0bb12-3338-4d59-b84b-0d6da1f8c53d",
+    "category": "motherboard",
+    "name": "ASRock A620 HDV/M.2 AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C1ZY1ZBH"
+  },
+  {
+    "id": "8e808df0-4f63-4986-b026-81f47a3bca31",
+    "category": "motherboard",
+    "name": "ASRock B650 M-C AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "8eec3741-cb60-4c7a-a8ef-dcf9b7b4e354",
+    "category": "motherboard",
+    "name": "ASUS PRIME X670-P AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BDTP8KX3"
+  },
+  {
+    "id": "8f111573-9ce1-457c-a589-bb21d09d6a4c",
+    "category": "motherboard",
+    "name": "MSI PRO B850-S EVO WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GP9K7QHG"
+  },
+  {
+    "id": "8fa2a1c6-8c07-4585-9903-815f6dfeafad",
+    "category": "motherboard",
+    "name": "MSI X870E GAMING PLUS WIFI DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0F67B9XT7"
+  },
+  {
+    "id": "8fb65091-546c-486b-a33e-1dfa2d249fd4",
+    "category": "motherboard",
+    "name": "ASRock B850M PRO-A WIFI AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DS6KDMF5"
+  },
+  {
+    "id": "8fcee7be-8a7d-43d2-ba89-4c82289d3906",
+    "category": "motherboard",
+    "name": "ASUS EX-B850M-V9",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "9045299b-7e0d-4d49-8bda-285dfd999984",
+    "category": "motherboard",
+    "name": "Gigabyte B840M EAGLE WIFI6 AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1
+  },
+  {
+    "id": "905cf2e4-a0e5-48e0-8811-cf780f6e7cb6",
+    "category": "motherboard",
+    "name": "Asus X870 AYW GAMING WIFI W DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FG3H1R3R"
+  },
+  {
+    "id": "90f1fa45-8e42-4c58-a40b-23ce16a65b65",
+    "category": "motherboard",
+    "name": "ASRock B850M Pro-A AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DS6LMZ84"
+  },
+  {
+    "id": "91a4a664-875d-4ea4-b69f-3d3a903a8a32",
+    "category": "motherboard",
+    "name": "MSI MPG X870I EDGE TI EVO WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FZDBM1BL"
+  },
+  {
+    "id": "91b2a8ac-7e41-461a-942d-f3e61dd65465",
+    "category": "motherboard",
+    "name": "Gigabyte X870I AORUS PRO ICE AM5 DDR5 Mini ITX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B083WG2VDF"
+  },
+  {
+    "id": "91f4a046-1319-4c62-931d-37487db3dc27",
+    "category": "motherboard",
+    "name": "MSI B850 MPG EDGE TI WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DT58PFRG"
+  },
+  {
+    "id": "9222833d-9482-471a-9b35-004ff1384735",
+    "category": "motherboard",
+    "name": "Gigabyte B650M AORUS PRO AX AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "927e478a-2031-4551-9a04-1b09b69ee5e5",
+    "category": "motherboard",
+    "name": "ASROCK A620M PRO RS AM5 DDR5 MICRO ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C39YS8DD"
+  },
+  {
+    "id": "92bc8a36-e67c-427f-880c-f47dcc7dd914",
+    "category": "motherboard",
+    "name": "ASRock B650E PG Riptide WiFi AM5 ATX Motherboard",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BHDR53BR"
+  },
+  {
+    "id": "92c363b9-65ac-4955-b88b-888704569ee6",
+    "category": "motherboard",
+    "name": "ASROCK B650M PRO RS AM5 DDR5 MICRO-ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0C6HWFVNS"
+  },
+  {
+    "id": "9330edb5-58e7-421c-8ffb-4fea9e314c02",
+    "category": "motherboard",
+    "name": "Gigabyte B650M GAMING PLUS WIFI DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0D2V4VH2C"
+  },
+  {
+    "id": "93311159-34f5-45ea-8ec0-a506976a7839",
+    "category": "motherboard",
+    "name": "MSI A620 PRO A620M-C EX AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2
+  },
+  {
+    "id": "9358a486-8ffa-4207-923c-c85d0001fc2f",
+    "category": "motherboard",
+    "name": "Biostar B650 MT-E PRO AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "93690a22-9779-4225-ac95-b20d62b65612",
+    "category": "motherboard",
+    "name": "MSI B650 PRO-A WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DC86PCR2"
+  },
+  {
+    "id": "93e789e1-2916-454a-a65f-2bb13f18db2e",
+    "category": "motherboard",
+    "name": "Gigabyte X870E AORUS ELITE WIFI7 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGVBM73J"
+  },
+  {
+    "id": "93f12ea3-075f-4c62-a8a2-36e911c82daf",
+    "category": "motherboard",
+    "name": "MSI B850 PRO B850-S WIFI6E AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0FR6948FR"
+  },
+  {
+    "id": "93f29c3d-4be4-46eb-95e0-53d8dc67fd7d",
+    "category": "motherboard",
+    "name": "ASRock B850M Pro Plus WiFi DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "9456ff96-5480-4b83-9143-df285fd1c361",
+    "category": "motherboard",
+    "name": "MSI MPG B650 CARBON WIFI ATX AM5",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHCJDJGF"
+  },
+  {
+    "id": "950a57ef-4501-4f10-b072-2733f25169a2",
+    "category": "motherboard",
+    "name": "MSI PRO B850-V EVO WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GXLCSY7N"
+  },
+  {
+    "id": "953e2f01-7966-42e0-90d2-ddcc1aa5b4da",
+    "category": "motherboard",
+    "name": "ASUS X870E ROG CROSSHAIR DARK HERO AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GKR5WNWB"
+  },
+  {
+    "id": "95b716e7-f002-4257-9b72-c165bd3cc258",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-K-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "95f1d25a-60e1-4945-ac7a-0da34ee0e0ae",
+    "category": "motherboard",
+    "name": "MSI B650 PRO B650M-B DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "965cda16-ddd5-432e-8a0d-1d077d454b1c",
+    "category": "motherboard",
+    "name": "MSI X670E GAMING PLUS WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0CRF81BBC"
+  },
+  {
+    "id": "966fcf78-ba04-4dde-8760-effe2cc4bad6",
+    "category": "motherboard",
+    "name": "ASUS Pro WS 665-ACE",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "96d06e3d-7c20-42dd-8efe-91c13916141c",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650E-PLUS WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0F7VZS6FG"
+  },
+  {
+    "id": "970b9393-29d0-4c55-bb9c-19d8b44b6122",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME A620M-K DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "970f9af9-b036-4f58-aa5c-d06e96fe49b1",
+    "category": "motherboard",
+    "name": "ASRock B650 M Pro X3D WiFi AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "9719335a-ed4f-4d5c-84b2-22fb5314c0a5",
+    "category": "motherboard",
+    "name": "MSI B850M GAMING PRO WIFI6E DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 1
+  },
+  {
+    "id": "971b777e-52d2-4d07-93f2-c43683caf7ce",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650M-PLUS",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "97735108-6f9a-4d76-80ff-6243b66d00b7",
+    "category": "motherboard",
+    "name": "Gigabyte B650M GAMING X AX AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BKPTTHXM"
+  },
+  {
+    "id": "97be2552-4dd9-44f9-aa96-0147aa92102a",
+    "category": "motherboard",
+    "name": "ASUS X670E ROG CROSSHAIR HERO AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BDTN8SNJ"
+  },
+  {
+    "id": "981c8d0f-c4d0-465f-aff3-989bb51d1722",
+    "category": "motherboard",
+    "name": "ASRock B850M Steel Legend WiFi DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DRTW2FR3"
+  },
+  {
+    "id": "983186db-a6cd-4110-8f2d-e7be42d5b1e3",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X670E-E GAMING WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BDTHQTJV"
+  },
+  {
+    "id": "9847a0cb-bdfd-49a7-ad03-03d8320166f0",
+    "category": "motherboard",
+    "name": "Gigabyte B650M D3HP AX AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CTTXH95Q"
+  },
+  {
+    "id": "986ea628-bc1e-49d3-8d4d-402bc2616fb7",
+    "category": "motherboard",
+    "name": "ASRock B850 M-A AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "989bab83-cb72-446f-a253-32e89396fc51",
+    "category": "motherboard",
+    "name": "Biostar B840 MT-E AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1
+  },
+  {
+    "id": "992289fb-9bb9-4c7d-b379-861ae563613f",
+    "category": "motherboard",
+    "name": "SAPPHIRE NITRO+ B850M WIFI AM5 DDR5 Micro-ATX",
+    "brand": "Sapphire",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0G3XW6T6M"
+  },
+  {
+    "id": "99c45f08-c93d-4e4a-97ba-7d23f786acca",
+    "category": "motherboard",
+    "name": "Gigabyte B850M AORUS PRO WIFI7 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "99c9009c-584e-49ed-baf7-4abe4da94081",
+    "category": "motherboard",
+    "name": "ASRock B650 PG Lightning WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "99f43eb2-e223-4535-910d-5794b9a1df88",
+    "category": "motherboard",
+    "name": "Asus X670E ROG STRIX I GAMING WIFI DDR5 Mini ITX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BDTVCJF8"
+  },
+  {
+    "id": "9a35a11e-4c3b-42a8-b076-34198702df2f",
+    "category": "motherboard",
+    "name": "MSI B850 GAMING PRO WIFI6E AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0FVQ8XDR1"
+  },
+  {
+    "id": "9a3f3b19-a3a9-453c-aa1c-dfd5f365898f",
+    "category": "motherboard",
+    "name": "MSI PRO B650-VC WIFI II DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "9b1825b1-d016-479b-bdff-0c3243a08c70",
+    "category": "motherboard",
+    "name": "Asus A620 TUF GAMING PRO WIFI DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2
+  },
+  {
+    "id": "9b87ec6d-e3d2-4352-99e4-017329f4ae64",
+    "category": "motherboard",
+    "name": "Gigabyte B850M EAGLE WIFI6E ICE DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FFQM1JXG"
+  },
+  {
+    "id": "9b8ac6db-210f-469e-b818-ec0160b62c03",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650EM-A WIFI AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 4
+  },
+  {
+    "id": "9b8c90e2-b4af-4fa1-820f-2567c4c614e8",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-F",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "9c4fd8ee-e222-4c26-99ca-372afd012674",
+    "category": "motherboard",
+    "name": "MSI B850 MLG EDITION AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FP77NFV7"
+  },
+  {
+    "id": "9cb8bc5b-c5ac-461c-bc85-5485ae8dc65e",
+    "category": "motherboard",
+    "name": "NZXT B650E N7 WIFI AM5 DDR5 ATX",
+    "brand": "NZXT",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0BG1HS9LS"
+  },
+  {
+    "id": "9cbb43eb-c770-4fba-970d-06eb2919bb7e",
+    "category": "motherboard",
+    "name": "Asus X870E-PLUS TUF GAMING WIFI7 AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0FDSD77GP"
+  },
+  {
+    "id": "9d2c5719-a669-4f28-b044-8b2bdfb84276",
+    "category": "motherboard",
+    "name": "GIGABYTE B850I AORUS PRO AM5 DDR5 Mini-ITX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DQLKPSMG"
+  },
+  {
+    "id": "9d63112a-26b3-4c0c-8a2b-6438d5873b9a",
+    "category": "motherboard",
+    "name": "ASUS B850M AYW GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.newegg.com/p/9SIC6U2KWH8074"
+  },
+  {
+    "id": "9d7adb28-e123-4257-bfaf-9fc92aa6e3d8",
+    "category": "motherboard",
+    "name": "ASUS EX-B850M-V7-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "9ea344c7-8efd-41dc-9741-d58bdcc0acde",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-A II ",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "9ec74274-1ff5-4301-b13e-66e756a80fca",
+    "category": "motherboard",
+    "name": "ASRock X870 Pro RS AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DG9WTMKK"
+  },
+  {
+    "id": "9f9ae690-0693-4c38-befe-2c6778168686",
+    "category": "motherboard",
+    "name": "MSI PRO X870E-S EVO WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GY1YVMMN"
+  },
+  {
+    "id": "9fe02aec-5837-4b53-9f7e-ca382780dc98",
+    "category": "motherboard",
+    "name": "NZXT B650E N7 WIFI AM5 DDR5 ATX",
+    "brand": "NZXT",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BFZYB6QW"
+  },
+  {
+    "id": "a03ae0c0-7920-447c-855d-16b40d52270c",
+    "category": "motherboard",
+    "name": "MSI B650 PRO-S WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CQHS7PLL"
+  },
+  {
+    "id": "a03cfbe3-6384-405d-8462-16a4e5d8f2a5",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-G GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FH7MB8WV"
+  },
+  {
+    "id": "a079ea05-f1dc-4c73-95b4-423d3f24c497",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650EM-A WIFI-CSM AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 4
+  },
+  {
+    "id": "a1413593-ff08-475f-886d-bf3ddfb86cc9",
+    "category": "motherboard",
+    "name": "MSI PRO B840M-B AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0FLSLQQ7K"
+  },
+  {
+    "id": "a1f31167-75dc-4850-bd41-32552a1ffdd7",
+    "category": "motherboard",
+    "name": "ASRock B650M PG Lightning AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "a291d54f-0d21-468c-9e91-25bb90fd7f52",
+    "category": "motherboard",
+    "name": "ASUS PRIME X670-P WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BDTLXWQM"
+  },
+  {
+    "id": "a3057e43-fed4-4171-a86b-013839da1a25",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870E-A GAMING WIFI7 NEO",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GS3JDMGD"
+  },
+  {
+    "id": "a37c95c1-0954-4ec8-9224-384a9110be52",
+    "category": "motherboard",
+    "name": "Asus AMD A620 Pro A620M-C-CSM AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2
+  },
+  {
+    "id": "a3906fda-1337-4b91-b7e3-a646098ab3bf",
+    "category": "motherboard",
+    "name": "Asus ProArt B650-CREATOR",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BQD5WWRT"
+  },
+  {
+    "id": "a417bfc1-d099-4ce5-ba1e-e75a71cb233b",
+    "category": "motherboard",
+    "name": "ASRock X870 Steel Legend WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DG4FK9HP"
+  },
+  {
+    "id": "a420caa4-fefa-4ac3-bb38-3c89df633436",
+    "category": "motherboard",
+    "name": "Gigabyte B840M AORUS ELITE WIFI6E AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1
+  },
+  {
+    "id": "a42ae442-3569-4bc7-8694-e0faa4c69321",
+    "category": "motherboard",
+    "name": "MSI PRO B850M-E EVO",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "a625de9d-a8d4-414b-ae67-2e981f4953c1",
+    "category": "motherboard",
+    "name": "ASROCK X870 PHANTOM GAMING NOVA WIFI AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FN6V62CP"
+  },
+  {
+    "id": "a7756413-6eda-402e-8924-48aba85802b5",
+    "category": "motherboard",
+    "name": "MSI B840 GAMING WIFI6E AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1
+  },
+  {
+    "id": "a867cdc9-4805-446d-b99d-f1ea0e971406",
+    "category": "motherboard",
+    "name": "Gigabyte X870M AORUS ELITE WIFI7 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.newegg.com/p/9SIC80CM2V6676"
+  },
+  {
+    "id": "a92ab6e3-574d-40dd-a6ae-10f491e7e693",
+    "category": "motherboard",
+    "name": "MSI MPG X870E CARBON WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DG3QW9TJ"
+  },
+  {
+    "id": "aaa00da0-4829-4853-b816-0f80c2363cc7",
+    "category": "motherboard",
+    "name": "Gigabyte X870E AORUS ELITE X3D ICE DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FRV8ZR2T"
+  },
+  {
+    "id": "aab10d98-a7bc-460b-95be-5b1c8e73be70",
+    "category": "motherboard",
+    "name": "Gigabyte X670 AORUS ELITE AX DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BF7FT26Z"
+  },
+  {
+    "id": "aab3cc57-0233-4ba3-93f5-88dfb30e7937",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-A AX6-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "aabedc2f-c98b-4f4f-82f4-f914e02c22b2",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-I GAMING WIFI AM5 DDR5 Mini-ITX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DHCQ1MPZ"
+  },
+  {
+    "id": "ab96904b-3035-4a16-b852-f86aaa09898e",
+    "category": "motherboard",
+    "name": "MSI PRO B850-VC EVO WIFI6E",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5
+  },
+  {
+    "id": "ac955de9-d931-4937-ae2b-6228a0d5d04d",
+    "category": "motherboard",
+    "name": "ASUS ROG CROSSHAIR X670E GENE Micro ATX Motherboard",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BDTJHHZS"
+  },
+  {
+    "id": "acaef132-83e0-4c7f-8e96-b333deafdf8d",
+    "category": "motherboard",
+    "name": "Asus X670E ProArt-CREATOR WIFI DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BDTM7VP5"
+  },
+  {
+    "id": "adec63d6-a619-4bd5-9a11-bf23d75f9975",
+    "category": "motherboard",
+    "name": "Asus Pro B650M-CT-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C6BSKL6B"
+  },
+  {
+    "id": "ae6a3ca4-cc23-41b3-970f-4f2c7cf893ee",
+    "category": "motherboard",
+    "name": "ASRock X870 LiveMixer WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FN44YQKY"
+  },
+  {
+    "id": "ae783c49-c09f-4933-b725-6d03b22c3505",
+    "category": "motherboard",
+    "name": "Colorful B650M CVN GAMING FROZEN V14 DDR5 Micro ATX",
+    "brand": "Colorful",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "ae88902f-f52c-4c12-b333-c352e9539b62",
+    "category": "motherboard",
+    "name": "MSI MPG B650I EDGE WIFI AM5 DDR5 Mini-ITX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BHCRX6K7"
+  },
+  {
+    "id": "aee80b7f-835a-402d-a3e3-984273e783ba",
+    "category": "motherboard",
+    "name": "Gigabyte B650E A PRO X USB4 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "aeee49c9-c63c-45fa-b468-43c55571b4ed",
+    "category": "motherboard",
+    "name": "MSI MAG X870E GAMING PLUS MAX WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GKQMNGWP"
+  },
+  {
+    "id": "b0144217-6f1a-412e-ab0f-b9af6a831d5e",
+    "category": "motherboard",
+    "name": "ASRock A620 A620M Pro RS WiFi AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0C2114HTX"
+  },
+  {
+    "id": "b0faf23f-5c51-40c4-bef4-f04ab3f97d87",
+    "category": "motherboard",
+    "name": "Asus ROG CROSSHAIR X870E HERO BTF WIFI DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FP3XLWXL"
+  },
+  {
+    "id": "b1c055d9-0d90-4c1a-81d5-28faaf0d6e8e",
+    "category": "motherboard",
+    "name": "ASRock B650M PG Lightning Wifi DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0CJT9KKSD"
+  },
+  {
+    "id": "b1e8a030-2ec2-46bc-b4b4-5d24a43e8399",
+    "category": "motherboard",
+    "name": "Biostar B850 M-SILVER DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 1
+  },
+  {
+    "id": "b278c704-7dc6-4b60-94e0-9de8711ee6dc",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B650-A GAMING WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BHHVHQXZ"
+  },
+  {
+    "id": "b2c9a780-cae9-4861-9abc-fe2da96cc80a",
+    "category": "motherboard",
+    "name": "MSI B850 GAMING PLUS WIFI PZ AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0FDJ97NWN"
+  },
+  {
+    "id": "b3268aea-838b-45f9-90f1-d2bdef0e7af2",
+    "category": "motherboard",
+    "name": "GIGABYTE B850M AORUS ELITE WIFI6E AM5 DDR5 Micro-ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0F4HGWLD5"
+  },
+  {
+    "id": "b37ef72d-9a03-4757-8052-466ccf0a2157",
+    "category": "motherboard",
+    "name": "Biostar B650 M-SILVER DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "b3d1af84-b126-48a6-a77c-69405ee79c14",
+    "category": "motherboard",
+    "name": "ASUS X670E PRIME-PRO WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BF6VKQP4"
+  },
+  {
+    "id": "b3d9c5af-a70e-4980-b757-8746a84d8260",
+    "category": "motherboard",
+    "name": "ASUS B850 MAX GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "b416ea4d-5aa6-470c-a6fa-114f8da9593e",
+    "category": "motherboard",
+    "name": "MSI MPG B850I EDGE TI WIFI AM5 DDR5 Mini-ITX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FC9CZTXL"
+  },
+  {
+    "id": "b4a7cd9a-692d-4289-a9ca-f5f9a659db5d",
+    "category": "motherboard",
+    "name": "MSI B650M MAG MORTAR WIFI AM5 DDR5 Micro-ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHC39YG7"
+  },
+  {
+    "id": "b4e0aad9-1b52-4f41-829a-178ce89a40dd",
+    "category": "motherboard",
+    "name": "Gigabyte B650I AORUS ULTRA 1.0 DDR5 Mini ITX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BYSMKDBW"
+  },
+  {
+    "id": "b55bae5e-5c45-4378-a380-9f9f2b2357db",
+    "category": "motherboard",
+    "name": "GIGABYTE B650M D3HP AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CH92B3S2"
+  },
+  {
+    "id": "b593ec1e-3348-4bc2-bdfa-c14b3ebe58f5",
+    "category": "motherboard",
+    "name": "ASRock B650M PG RIPTIDE AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHYV43QV"
+  },
+  {
+    "id": "b6abf5f9-b567-4556-9bc5-682292c97883",
+    "category": "motherboard",
+    "name": "MSI B850 GAMING PLUS WIFI6E AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0FYRPBJ9S"
+  },
+  {
+    "id": "b77b7099-3831-40e4-9074-5e28814b7258",
+    "category": "motherboard",
+    "name": "Biostar A620 MS AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "b89b000a-856c-4f25-ab9a-3bf7d831da08",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870E-E GAMING WIFI7 NEO",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GWNS77NT"
+  },
+  {
+    "id": "b8b7d445-76b2-4d85-964d-88b2ab61f408",
+    "category": "motherboard",
+    "name": "Biostar X670E VALKYRIE AM5 DDR5 ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "b923d6a0-fc7c-42a4-877c-50bd3e2c555b",
+    "category": "motherboard",
+    "name": "Biostar B650 MS2-E AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "b94e1435-4511-4ed5-b9ee-3e80717e3df8",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B650E-E GAMING WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BHMTC99Q"
+  },
+  {
+    "id": "bac46ee6-1218-4286-907c-9ffd89b35ed3",
+    "category": "motherboard",
+    "name": "Gigabyte B850M DS3H ICE AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "bc98c630-0bad-472c-868c-0fdb6c406bbe",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850M-E WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0F6HB62B4"
+  },
+  {
+    "id": "bccf3f4b-6152-4331-82f1-fbded05a88ad",
+    "category": "motherboard",
+    "name": "Gigabyte B850 EAGLE WIFI6E AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DQLJWRDX"
+  },
+  {
+    "id": "bd0f35cd-9021-4a69-a717-fd8a7065a837",
+    "category": "motherboard",
+    "name": "ASRock B850 Pro-A AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DS6M1ZRN"
+  },
+  {
+    "id": "bdd801a1-e68f-4997-8c2a-24149c219ace",
+    "category": "motherboard",
+    "name": "ASRock A620 M-C R2.0 AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 3
+  },
+  {
+    "id": "bef4372e-fe51-43c0-800a-d85a825388e2",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650-PLUS DDR5",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHMVMMJC"
+  },
+  {
+    "id": "bf8a1a57-f204-4539-9476-7e8be645e49a",
+    "category": "motherboard",
+    "name": "Gigabyte B650 UD AX (rev. 1.0) AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DFHPZBGM"
+  },
+  {
+    "id": "c06b51ce-8ed9-4c22-9dce-08584ef79f10",
+    "category": "motherboard",
+    "name": "Gigabyte B840M DS3H WIFI6 AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 1
+  },
+  {
+    "id": "c1dc3964-acc7-4f8e-b66c-e58ffec463fb",
+    "category": "motherboard",
+    "name": "ASRock A620 AM-X WiFi AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "c20887cd-64c8-4f43-b2dd-9da4953e1058",
+    "category": "motherboard",
+    "name": "GIGABYTE B850M AORUS STEALTH",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "c31899c8-303d-488c-941a-a38c57d4ed18",
+    "category": "motherboard",
+    "name": "MSI X870E MAG TOMAHAWK WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BT9Q9KTN"
+  },
+  {
+    "id": "c32bfbd6-6c34-4048-ba96-6664feef38e9",
+    "category": "motherboard",
+    "name": "ASRock B650 PRO RS AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.newegg.com/p/N82E16813119595"
+  },
+  {
+    "id": "c3ca8ff9-a573-4a3d-9703-c6a62446f4f7",
+    "category": "motherboard",
+    "name": "Gigabyte X870 AORUS ELITE X3D ICE ATX AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FRR84MKC"
+  },
+  {
+    "id": "c43e3f54-d6f0-4a0a-b419-1193d23fe323",
+    "category": "motherboard",
+    "name": "Asus X670E ROG CROSSHAIR X670E GENE AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "c479ed77-62fa-48fa-84e5-923b087843c1",
+    "category": "motherboard",
+    "name": "MSI B650 MPG CARBON WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 4
+  },
+  {
+    "id": "c5644c26-96b1-47a7-b293-3975d0cc0aa0",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX B850-A GAMING WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DPLP33YR"
+  },
+  {
+    "id": "c56d99d3-b93e-4cf2-9f26-f5f055908e0a",
+    "category": "motherboard",
+    "name": "Gigabyte A620 M H (rev. 1.0) DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "c5a0a1f8-7019-4c6b-8cb6-b05c10130765",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME A620-PLUS WIFI6 AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "c5ecef47-6285-4633-8366-9c47eb4c8bab",
+    "category": "motherboard",
+    "name": "MSI B850M GAMING PLUS WIFI6E AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B096Y414R3"
+  },
+  {
+    "id": "c6092b7b-17c2-4501-b1fb-aa24d680968d",
+    "category": "motherboard",
+    "name": "Gigabyte A620M GAMING X DDR5 Micro ATX AM5",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0C1ZZ57ZW"
+  },
+  {
+    "id": "c6d47f12-d515-4796-badc-a484788032fe",
+    "category": "motherboard",
+    "name": "Gigabyte B650 EAGLE AX AM5 DDR5 ATX WIFI",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B083TZ68H1"
+  },
+  {
+    "id": "c6f2b155-92ee-460e-8c00-3ecc73769692",
+    "category": "motherboard",
+    "name": "MSI MEG X870E ACE MAX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0G4P65W1J"
+  },
+  {
+    "id": "c723ce2c-0244-4691-bdf7-b35d009a5d14",
+    "category": "motherboard",
+    "name": "Gigabyte X870 GAMING X WIFI7 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DGVGT3PJ"
+  },
+  {
+    "id": "c9718d32-6e68-49af-8706-0b3272249fe5",
+    "category": "motherboard",
+    "name": "Gigabyte B650 GAMING X AX V2 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CTTY491F"
+  },
+  {
+    "id": "c9f2f954-50be-4276-aa2b-8cb5a27b9a85",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E AORUS PRO X3D ICE AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FRV5XHVQ"
+  },
+  {
+    "id": "ca0fe70e-efe0-4c73-9c0a-5af291926fe4",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME A620M-A-CSM DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C3ZLCSVP"
+  },
+  {
+    "id": "cacbcfa6-3a3d-45a1-b9cf-1c05613c5454",
+    "category": "motherboard",
+    "name": "ASUS B650E MAX GAMING WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F25MB8H2"
+  },
+  {
+    "id": "cb881a57-e84f-47f0-b16a-3df99348370f",
+    "category": "motherboard",
+    "name": "MSI X670E MPG CARBON WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0B6Q23SPC"
+  },
+  {
+    "id": "cc519d61-0282-42c3-92a0-157345e42af0",
+    "category": "motherboard",
+    "name": "ASUS EX-B650M-V7 PLUS",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "cd3f075f-77c1-49eb-9f30-5b7d874db497",
+    "category": "motherboard",
+    "name": "ASRock B850 Phantom Gaming Riptide WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DS6MNSWT"
+  },
+  {
+    "id": "ce1f918a-3347-4114-a4b5-25af8a09e223",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850M-PLUS WIFI7",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FTNXMLRQ"
+  },
+  {
+    "id": "cef93de0-c7e4-4c73-926a-cb860ed79666",
+    "category": "motherboard",
+    "name": "ASRock B650M PG Riptide WiFi White AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "cf3d86de-1e5b-4995-84fc-95f0b85bb986",
+    "category": "motherboard",
+    "name": "ASUS B850 MAX GAMING WIFI W",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FHRNH9G2"
+  },
+  {
+    "id": "cfe01b2c-e9fd-429a-974a-29b672a06a08",
+    "category": "motherboard",
+    "name": "ASROCK X870 PRO RS WIFI AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DGB9VXRY"
+  },
+  {
+    "id": "d00a868f-b42a-446c-9c09-16de6314171f",
+    "category": "motherboard",
+    "name": "GIGABYTE X870 AORUS ELITE X3D",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GP5Y8BXH"
+  },
+  {
+    "id": "d14182a6-f887-484e-bc30-bc989b6556a6",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING X670E-PLUS WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BDTJFHKJ"
+  },
+  {
+    "id": "d1c260af-50b8-4e0f-84d9-69544a25b2bf",
+    "category": "motherboard",
+    "name": "ASRock B850M Riptide WiFi AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DS6LSJRF"
+  },
+  {
+    "id": "d3dca1e3-a7c7-48a8-996d-5a80fba7765d",
+    "category": "motherboard",
+    "name": "Gigabyte B850 EAGLE WIFI7 ICE DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FDLC6X93"
+  },
+  {
+    "id": "d48b09e0-9afe-4110-b9e1-cf2cc9d365fb",
+    "category": "motherboard",
+    "name": "ASUS ROG STRIX X870E-H GAMING WIFI7 AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B09CD4WSR6"
+  },
+  {
+    "id": "d49b3ffc-2a6f-47a6-bae2-e14fc7645196",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850M-A-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5
+  },
+  {
+    "id": "d4ba00e7-e496-46e6-b6de-ee52751db128",
+    "category": "motherboard",
+    "name": "Gigabyte B650M K AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BZ17BQ4Z"
+  },
+  {
+    "id": "d54eab9e-e2ac-4a9a-b81f-48b7aa15ab2d",
+    "category": "motherboard",
+    "name": "MSI MAG B850M GAMING PRO MAX WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "d5d2e06d-9a36-46d6-8795-63ac712773d3",
+    "category": "motherboard",
+    "name": "AsRock X870E Challenger WIFI White",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GWML4GVW"
+  },
+  {
+    "id": "d6c35a26-9c38-4b27-b02c-b03a35d22d7f",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-A AX II AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BSP52VJC"
+  },
+  {
+    "id": "d86e45c3-7e70-4f99-bcbf-5e5769b92fbd",
+    "category": "motherboard",
+    "name": "GIGABYTE B650 GAMING X AX AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BYBHW4SH"
+  },
+  {
+    "id": "d9115896-45bd-42a2-90f2-b605d8dae24d",
+    "category": "motherboard",
+    "name": "Gigabyte B850M AORUS ELITE WIFI6E ICE AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DQLJGTRM"
+  },
+  {
+    "id": "d950b08a-9a7d-4db9-8b6d-db87c5f97437",
+    "category": "motherboard",
+    "name": "ASUS B650E MAX GAMING WIFI W",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F25ML4CK"
+  },
+  {
+    "id": "d9a87c46-000b-44a7-aa1d-8294b080d64f",
+    "category": "motherboard",
+    "name": "ASRock B650E STEEL LEGEND WIFI DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0BH4MNQXV"
+  },
+  {
+    "id": "da6b0200-6128-4a31-9b2b-8c2767ac20b2",
+    "category": "motherboard",
+    "name": "Gigabyte B650 AORUS ELITE AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "dacf7800-6cf1-46d0-9627-d0e93e868690",
+    "category": "motherboard",
+    "name": "MSI MAG B850M MORTAR MAX WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "db24c3a9-9151-4d17-b8d0-a60aaee214dd",
+    "category": "motherboard",
+    "name": "Gigabyte A620 S2H DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0C4CKFV65"
+  },
+  {
+    "id": "dbb2903c-1ce3-4b3f-93e8-d00678e90b37",
+    "category": "motherboard",
+    "name": "Asus B840 PRIME B840M-A-CSM AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DP5DJ846"
+  },
+  {
+    "id": "dcb79c5b-b6b7-45c7-85a4-738ecbeed783",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-R",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "dd048615-6279-4acd-a2fe-a4c5268759df",
+    "category": "motherboard",
+    "name": "Asus A620 TUF GAMING A620AM-PLUS AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "ddfd3730-3d92-4da0-a5f2-4b02bb9f24ac",
+    "category": "motherboard",
+    "name": "GIGABYTE EAGLE B850M WIFI6E AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FFQJQYQ6"
+  },
+  {
+    "id": "de33624e-6b68-41d0-b1c6-e90f1273f3af",
+    "category": "motherboard",
+    "name": "ASRock B650 PG LIGHTNING AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BH4M6ZL9"
+  },
+  {
+    "id": "dfa2d742-cff4-47b3-be6c-d86dd65d866c",
+    "category": "motherboard",
+    "name": "Gigabyte B650M GAMING WIFI DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "dfa57bb2-fe3b-4f21-a516-c66e00a325cb",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850M-A",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "e018d185-6e41-492b-b29e-ae3bb5ae6035",
+    "category": "motherboard",
+    "name": "MSI B850M MAG MORTAR AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "e01e917b-a79d-4b99-8313-33e226e5ae4b",
+    "category": "motherboard",
+    "name": "GIGABYTE B650 AERO G AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BH79FMW3"
+  },
+  {
+    "id": "e0659d3d-534e-4ed9-8a5d-456f7722226c",
+    "category": "motherboard",
+    "name": "Asus B840M-A PRIME WIFI-CSM AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B840"
+    },
+    "tier": 2
+  },
+  {
+    "id": "e08d75bd-8788-4505-b37f-2c8562c5bbae",
+    "category": "motherboard",
+    "name": "COLORFUL COLORFIRE B650M-MEOW WIFI ORANGE AM5 DDR5 M-ATX",
+    "brand": "Colorful",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 4
+  },
+  {
+    "id": "e12a79e9-131e-4dd5-af1c-dca05f628e31",
+    "category": "motherboard",
+    "name": "ASRock X870E Taichi OCF AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GJV6GYS5"
+  },
+  {
+    "id": "e273cba5-9209-4c1f-ba2e-7602e50c3bbf",
+    "category": "motherboard",
+    "name": "MSI B650 PRO DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C7SJFDXK"
+  },
+  {
+    "id": "e2fa446a-c492-4d7d-869a-2b7e69fb395a",
+    "category": "motherboard",
+    "name": "Gigabyte B850 GAMING WIFI6 AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DQLKZSKF"
+  },
+  {
+    "id": "e312cb52-6216-4f06-bdb6-3ffd4ef35de0",
+    "category": "motherboard",
+    "name": "ASUS X870 MAX GAMING WIFI7 AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F8KWHK5B"
+  },
+  {
+    "id": "e35c7f80-4c02-4211-9caf-0b66f1286d3a",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650-PLUS WIFI-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "e362d641-0dc7-438f-91ad-682f8b1de03e",
+    "category": "motherboard",
+    "name": "Gigabyte X870 AORUS ELITE WIFI7 ICE",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGVGRVLQ"
+  },
+  {
+    "id": "e3b1fceb-32d7-43f3-83c1-2c0156bd6c61",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-K",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.newegg.com/p/9SIBTK0KAU9714"
+  },
+  {
+    "id": "e41f4907-c9f2-4e5b-a53e-4a5fe4b2be5e",
+    "category": "motherboard",
+    "name": "GIGABYTE B850 AORUS STEALTH",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GDM77887"
+  },
+  {
+    "id": "e4366ed7-e095-40eb-b8ea-2377e801170b",
+    "category": "motherboard",
+    "name": "MSI X870E MPG EDGE TI WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BSLKWC3R"
+  },
+  {
+    "id": "e4c63d8d-4102-4606-8368-21132d8a508a",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B650EM-PLUS WIFI",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 4
+  },
+  {
+    "id": "e584f5cb-0312-4681-a2fe-97c4d2241cf0",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME A620M-A DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2
+  },
+  {
+    "id": "e5acd9db-fa5a-4437-ac0a-49126796ff8a",
+    "category": "motherboard",
+    "name": "ASRock X870E Phantom Gaming Nova WiFi AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DFZQJFC1"
+  },
+  {
+    "id": "e5bbda7f-9eb0-43e2-a9cc-2a5ca45ce92b",
+    "category": "motherboard",
+    "name": "Gigabyte A620M C AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2
+  },
+  {
+    "id": "e5da1ea8-c550-47c4-9b1a-89cb3cdb74f9",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-A-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BPRK5WVM"
+  },
+  {
+    "id": "e6d55b4b-9b6e-4051-a37c-caf030c3ef20",
+    "category": "motherboard",
+    "name": "AsRock B850M Challenger WiFi",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "e79d185c-acbc-4383-be2f-689c50b54913",
+    "category": "motherboard",
+    "name": "Asus A620 PRIME-E DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "e86474c6-491d-4e82-8117-93beb4d29d4f",
+    "category": "motherboard",
+    "name": "GIGABYTE B850M EAGLE WIFI7",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0GYCSQ69Q"
+  },
+  {
+    "id": "e8a66e2e-c53b-49d3-a31c-49a9ee8fe389",
+    "category": "motherboard",
+    "name": "MSI MAG B650 TOMAHAWK WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHCCNSRH"
+  },
+  {
+    "id": "e9121839-92b5-4f46-9269-238a70a952a4",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E EAGLE WIFI7",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGVMYTW6"
+  },
+  {
+    "id": "e9291cfe-fa38-47a0-8cf0-4dee1560ad88",
+    "category": "motherboard",
+    "name": "ASRock X670E Steel Legend ATX AM5",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BGPCH9C3"
+  },
+  {
+    "id": "e93007a9-8364-4b25-95d1-7846e923580b",
+    "category": "motherboard",
+    "name": "Gigabyte B850M D3HP AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0DQNQM897"
+  },
+  {
+    "id": "ec9bfe08-89bf-4f32-bcb5-e933b7011c8d",
+    "category": "motherboard",
+    "name": "Gigabyte B850 EAGLE ICE AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F72S2VJV"
+  },
+  {
+    "id": "ee46063d-4561-4176-a621-81bda701499b",
+    "category": "motherboard",
+    "name": "ASUS PRIME B650M-A WIFI II-CSM AM5 DDR5 Micro-ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BSVDKRKN"
+  },
+  {
+    "id": "ee4e389a-1cd6-459d-9d82-03b8b055b8a7",
+    "category": "motherboard",
+    "name": "ASRock X670E Pro RS AMD AM5 ATX Motherboard",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0BGPCNSGZ"
+  },
+  {
+    "id": "ef727936-0187-426d-9ac6-f5dcd08db1a0",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-A AX6 II-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 3
+  },
+  {
+    "id": "efb8306a-6c36-462e-a93e-a59b8f869821",
+    "category": "motherboard",
+    "name": "ASUS TUF GAMING B850M-PLUS WIFI7 W",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B09CD393H7"
+  },
+  {
+    "id": "f05945cd-b2d1-4f0f-b218-4252666bd208",
+    "category": "motherboard",
+    "name": "ASRock A620 M-HDVP AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "f061f9c6-05cb-4c82-8882-7c79b286dfa3",
+    "category": "motherboard",
+    "name": "MSI B850 MPOWER AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FDJ97NWN"
+  },
+  {
+    "id": "f0c6340a-5696-49ca-8f75-b34ee80a8b99",
+    "category": "motherboard",
+    "name": "MSI X870 GAMING PLUS WIFI AM5 DDR5 ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DPY4D638"
+  },
+  {
+    "id": "f1776987-bdae-4e3c-aba2-ea6f2dd24bc4",
+    "category": "motherboard",
+    "name": "ASUS A620 PRIME A620AM-K AM5 DDR5 Micro ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  },
+  {
+    "id": "f212ce49-14b1-42d5-b106-3ae244977da9",
+    "category": "motherboard",
+    "name": "MSI B850M GAMING WIFI6E",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 1
+  },
+  {
+    "id": "f241c390-2b35-4916-82fe-dde384574031",
+    "category": "motherboard",
+    "name": "Asus TUF GAMING X870 PLUS WIFI AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGQ9C2TH"
+  },
+  {
+    "id": "f24caa89-27bd-4797-899c-2bb76b608971",
+    "category": "motherboard",
+    "name": "MSI PRO B650M-A WIFI AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BDS8TC1G"
+  },
+  {
+    "id": "f262fc1a-c7d6-4fa1-945f-805713beb902",
+    "category": "motherboard",
+    "name": "ASRock B850 Pro RS AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0DS6LQ8L1"
+  },
+  {
+    "id": "f278d2eb-8269-415e-9f7d-917ea68b24ec",
+    "category": "motherboard",
+    "name": "ASUS PRIME X670-P WIFI-CSM AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670"
+    },
+    "tier": 3
+  },
+  {
+    "id": "f281a0a6-8c1a-449e-8dc2-2dfc5a0d8295",
+    "category": "motherboard",
+    "name": "ASUS X870E ROG CROSSHAIR 2006 AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0H88618WG"
+  },
+  {
+    "id": "f2b7a820-8ec7-4954-a485-16a405d64bef",
+    "category": "motherboard",
+    "name": "Asus PRIME B650M-A AX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2
+  },
+  {
+    "id": "f3c63d82-6d63-4272-8464-e6c0ec94f979",
+    "category": "motherboard",
+    "name": "ASUS PRIME B850M-K-CSM",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "f3f35eb8-b961-42a8-a1ff-e35d340beff4",
+    "category": "motherboard",
+    "name": "SAPPHIRE PURE X870A WIFI 7 AM5 DDR5 ATX",
+    "brand": "Sapphire",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4
+  },
+  {
+    "id": "f5536a47-da8d-4c64-bcf2-399487d917a4",
+    "category": "motherboard",
+    "name": "GIGABYTE B850M FORCE V2",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "f64744d7-b66c-4b6e-9c46-96939e0bdbdf",
+    "category": "motherboard",
+    "name": "MSI B650M BOMBER WIFI AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 1
+  },
+  {
+    "id": "f66f2c8f-b999-444d-8793-62322ececcc8",
+    "category": "motherboard",
+    "name": "ASUS X870E ROG CROSSHAIR APEX AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0F25LTGBN"
+  },
+  {
+    "id": "f7da4719-45b5-4810-805d-9b5614e228b3",
+    "category": "motherboard",
+    "name": "Asus X670E TUF GAMING PLUS DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 4
+  },
+  {
+    "id": "f81f258b-0338-4a41-a4a5-bfc41530b6b6",
+    "category": "motherboard",
+    "name": "Biostar B850 MT2-E DJ AM5 DDR5 Micro ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "f8893dbc-3158-490b-8587-f6f9f0e39370",
+    "category": "motherboard",
+    "name": "ASROCK A620I PHANTOM GAMING LIGHTNING WIFI AM5 DDR5 MINI-ITX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "itx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CKWSYT9R"
+  },
+  {
+    "id": "f8bf3911-b17e-456d-991a-752540354be9",
+    "category": "motherboard",
+    "name": "MSI B850 PRO B850M-X AM5 DDR5 Micro ATX",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 3
+  },
+  {
+    "id": "f95a2cf1-ec57-4529-aed6-e3674858fa29",
+    "category": "motherboard",
+    "name": "ASRock B650M PG RIPTIDE WIFI DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B650"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BHZHV5V1"
+  },
+  {
+    "id": "fa349345-0654-4d92-b51a-741ad2e2d239",
+    "category": "motherboard",
+    "name": "ASRock X670E Steel Legend ATX AM5",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X670E"
+    },
+    "tier": 4,
+    "url": "https://www.newegg.com/p/N82E16813162070"
+  },
+  {
+    "id": "fa7c1fd5-4f76-4264-b19f-eb71818b921d",
+    "category": "motherboard",
+    "name": "ASUS B850 PRIME PLUS WIFI-CSM AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "fb7af3bc-e22b-4a5d-9707-21d485ad22c5",
+    "category": "motherboard",
+    "name": "ASRock A620 M-C AM5 DDR5 Micro ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 3
+  },
+  {
+    "id": "fc39cb35-00df-4b10-a625-e9e9e4d8b1af",
+    "category": "motherboard",
+    "name": "ASRock X870 Taichi Creator AM5 DDR5 ATX",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0FSLVZDBP"
+  },
+  {
+    "id": "fd071db0-c961-432b-8538-fa56dde18d28",
+    "category": "motherboard",
+    "name": "GIGABYTE X870E AORUS PRO AM5 DDR5 ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DGVGV7YN"
+  },
+  {
+    "id": "fd36408f-b5d6-4cab-b306-299e0b9f25ae",
+    "category": "motherboard",
+    "name": "Biostar X870E VALKYRIE AM5 DDR5 ATX",
+    "brand": "Biostar",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870E"
+    },
+    "tier": 3
+  },
+  {
+    "id": "fd66780a-f399-4397-aaf4-e465caf2a639",
+    "category": "motherboard",
+    "name": "AsRock B850M Rock WiFi",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GNCQY6VY"
+  },
+  {
+    "id": "fda1fa11-716b-4c7e-9ee2-12f0f53486ba",
+    "category": "motherboard",
+    "name": "Gigabyte B850M DS3H AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0DQLJHJ8B"
+  },
+  {
+    "id": "fdb9c244-0b4a-46c4-9ac5-ac7e43af88fc",
+    "category": "motherboard",
+    "name": "Asus X870 PRIME X870-P WIFI-CSM AM5 DDR5 ATX",
+    "brand": "ASUS",
+    "socket": "AM5",
+    "formFactor": "atx",
+    "specs": {
+      "Chipset": "AMD X870"
+    },
+    "tier": 4
+  },
+  {
+    "id": "fe0c6ef7-e25c-4371-9406-c16dea6f140a",
+    "category": "motherboard",
+    "name": "MSI MPG B850M EDGE TI MAX WIFI",
+    "brand": "MSI",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 4
+  },
+  {
+    "id": "fe3427c9-ca63-4f27-8af7-7a1ef973138c",
+    "category": "motherboard",
+    "name": "AsRock B850M Challenger",
+    "brand": "ASRock",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD B850"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GND1KGLX"
+  },
+  {
+    "id": "febcd1d4-10ea-4e4a-bcde-97301590a758",
+    "category": "motherboard",
+    "name": "Gigabyte A620M DS3H AM5 DDR5 Micro ATX",
+    "brand": "Gigabyte",
+    "socket": "AM5",
+    "formFactor": "matx",
+    "specs": {
+      "Chipset": "AMD A620"
+    },
+    "tier": 1
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "0c494538-1acb-4438-bfb2-8ecbcbc2f900",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Bose OE2i Closed-Back Headphones (White/Gray)",
+    "manufacturer": "Bose",
+    "part_numbers": ["OE2i White"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "OE2i White",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

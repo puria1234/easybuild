@@ -1,0 +1,19 @@
+{
+  "opendb_id": "b42556cf-cac7-4689-8a00-85bcfe133689",
+  "connectivity": ["Wireless 2.4GHz"],
+  "lighting": [],
+  "grip_types": [],
+  "metadata": {
+    "name": "Orbital Pathfinder CCH-000",
+    "manufacturer": "Orbital",
+    "part_numbers": [],
+    "series": "Pathfinder",
+    "variant": "CCH-000"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

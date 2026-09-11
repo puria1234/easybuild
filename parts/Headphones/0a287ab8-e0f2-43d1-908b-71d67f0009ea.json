@@ -1,0 +1,26 @@
+{
+  "opendb_id": "0a287ab8-e0f2-43d1-908b-71d67f0009ea",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "HP HyperX Cloud Closed-Back Gaming Headset",
+    "manufacturer": "HP",
+    "part_numbers": ["KHX-H3CLW"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "KHX-H3CLW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

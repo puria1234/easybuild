@@ -1,0 +1,31 @@
+{
+  "opendb_id": "6ed05215-6fbc-4ac8-8064-841b9d6fe462",
+  "size": 140,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 119.1,
+  "max_airflow": null,
+  "min_noise_level": 25.2,
+  "max_noise_level": 33.2,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 3.54,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Thermaltake TOUGHFAN 140mm White PWM",
+    "manufacturer": "Thermaltake",
+    "part_numbers": [],
+    "series": "TOUGHFAN",
+    "variant": "140mm White"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

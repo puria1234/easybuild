@@ -1,0 +1,25 @@
+{
+  "opendb_id": "bffca422-7309-4213-b484-56f0e825216c",
+  "metadata": {
+    "name": "ARCTIC MX-2 30g Thermal Paste",
+    "manufacturer": "ARCTIC",
+    "part_numbers": ["ACT-MX2-30g", "OR-MX2-AC-03"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ACT-MX2-30g",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "OR-MX2-AC-03",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

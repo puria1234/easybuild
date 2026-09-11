@@ -1,0 +1,26 @@
+{
+  "opendb_id": "113f7eb3-e4bb-4fd1-887c-253953ca9400",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Ozone Gaming OZRAGESTW Closed Gaming Headset",
+    "manufacturer": "Ozone Gaming",
+    "part_numbers": ["OZRAGESTW"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "OZRAGESTW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

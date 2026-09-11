@@ -1,0 +1,31 @@
+{
+  "opendb_id": "a311a75a-7f36-4423-8c2f-8561c269a5fa",
+  "size": 80,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 26.8,
+  "max_airflow": null,
+  "min_noise_level": 21.6,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Aerocool Centaurus III 80mm Black 26.8 CFM 1-Pack",
+    "manufacturer": "AeroCool",
+    "part_numbers": [],
+    "series": "Centaurus",
+    "variant": "80mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

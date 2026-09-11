@@ -1,0 +1,112 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - navigation [ref=f2e3]:
+      - link "EasyBuild." [ref=f2e4] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f2e6]:
+        - link "Build with AI" [ref=f2e7] [cursor=pointer]:
+          - /url: /build
+        - link "Explore Builds" [ref=f2e8] [cursor=pointer]:
+          - /url: /explore
+        - link "How it Works" [ref=f2e9] [cursor=pointer]:
+          - /url: /#how-it-works
+      - link "Start Building" [ref=f2e11] [cursor=pointer]:
+        - /url: /build
+  - main [ref=f2e12]:
+    - generic [ref=f2e13]:
+      - generic [ref=f2e18]:
+        - heading "Explore builds" [level=1] [ref=f2e19]
+        - paragraph [ref=f2e20]: Real configurations the AI has already put together. Start from one instead of a blank page.
+      - generic [ref=f2e21]:
+        - generic [ref=f2e22]:
+          - generic [ref=f2e23]:
+            - generic [ref=f2e24]:
+              - generic [ref=f2e25]:
+                - heading "$1,500 Budget Gaming" [level=2] [ref=f2e26]
+                - generic [ref=f2e27]: $1,500
+              - paragraph [ref=f2e28]: Solid 1080p frame rates without spending a dollar more than it needs to.
+              - generic [ref=f2e29]:
+                - generic [ref=f2e30]: Ryzen 7 7700X
+                - generic [ref=f2e31]: ASUS Dual GeForce RTX 5060 8GB OC
+                - generic [ref=f2e32]: FURY Beast 16GB DDR5-6000 CL36
+              - generic [ref=f2e33]:
+                - generic [ref=f2e34]: 1080p Gaming · Great
+                - generic [ref=f2e35]: Multitasking · Good
+            - link "Build something similar" [ref=f2e36] [cursor=pointer]:
+              - /url: /build?q=Build%20me%20a%20%241%2C500%20gaming%20PC%20for%201080p%2C%20best%20value
+          - generic [ref=f2e39]:
+            - generic [ref=f2e40]:
+              - generic [ref=f2e41]:
+                - heading "$2,500 1440p Gaming PC" [level=2] [ref=f2e42]
+                - generic [ref=f2e43]: $2,500
+              - paragraph [ref=f2e44]: "The most common pairing in real 1440p builds right now: a Ryzen X3D chip and a 70-class GPU."
+              - generic [ref=f2e45]:
+                - generic [ref=f2e46]: Ryzen 9 9950X3D
+                - generic [ref=f2e47]: ASUS Prime GeForce RTX 5070 12GB OC
+                - generic [ref=f2e48]: FURY Beast 16GB DDR5-6000 CL36
+              - generic [ref=f2e49]:
+                - generic [ref=f2e50]: 1440p Gaming · Great
+                - generic [ref=f2e51]: Multitasking · Great
+            - link "Build something similar" [ref=f2e52] [cursor=pointer]:
+              - /url: /build?q=I%20want%20a%20%242%2C500%20PC%20for%201440p%20gaming%20in%20Fortnite%20and%20Valorant
+          - generic [ref=f2e55]:
+            - generic [ref=f2e56]:
+              - generic [ref=f2e57]:
+                - heading "$3,500 Creator Workstation" [level=2] [ref=f2e58]
+                - generic [ref=f2e59]: $3,500
+              - paragraph [ref=f2e60]: Rendering and exports that don't leave you waiting.
+              - generic [ref=f2e61]:
+                - generic [ref=f2e62]: Ryzen 9 9950X3D
+                - generic [ref=f2e63]: ASUS TUF Gaming GeForce RTX 5070 Ti 16GB OC
+                - generic [ref=f2e64]: Pro Overclocking 32GB DDR5-6000 CL36
+              - generic [ref=f2e65]:
+                - generic [ref=f2e66]: 1440p Gaming · Excellent
+                - generic [ref=f2e67]: Blender · Excellent
+                - generic [ref=f2e68]: Multitasking · Great
+            - link "Build something similar" [ref=f2e69] [cursor=pointer]:
+              - /url: /build?q=Build%20a%20%243%2C500%20workstation%20for%20Blender%20and%20Premiere
+          - generic [ref=f2e72]:
+            - generic [ref=f2e73]:
+              - generic [ref=f2e74]:
+                - heading "Silent Productivity PC" [level=2] [ref=f2e75]
+                - generic [ref=f2e76]: $2,800
+              - paragraph [ref=f2e77]: Workstation power that never announces itself.
+              - generic [ref=f2e78]:
+                - generic [ref=f2e79]: Ryzen 9 9950X3D
+                - generic [ref=f2e80]: ASUS Prime GeForce RTX 5070 12GB OC
+                - generic [ref=f2e81]: FURY Beast 16GB DDR5-6000 CL36
+              - generic [ref=f2e82]:
+                - generic [ref=f2e83]: 1440p Gaming · Great
+                - generic [ref=f2e84]: Blender · Excellent
+                - generic [ref=f2e85]: Multitasking · Great
+            - link "Build something similar" [ref=f2e86] [cursor=pointer]:
+              - /url: /build?q=Build%20a%20%242%2C800%20quiet%20workstation%20for%20Blender%2C%20keep%20it%20silent
+          - generic [ref=f2e89]:
+            - generic [ref=f2e90]:
+              - generic [ref=f2e91]:
+                - heading "Compact ITX Build" [level=2] [ref=f2e92]
+                - generic [ref=f2e93]: $2,200
+              - paragraph [ref=f2e94]: Full-size performance, a fraction of the footprint.
+              - generic [ref=f2e95]:
+                - generic [ref=f2e96]: Ryzen 7 7800X3D
+                - generic [ref=f2e97]: Gigabyte Radeon RX 9070 XT Gaming OC 16GB
+                - generic [ref=f2e98]: FURY Beast 16GB DDR5-6000 CL36
+              - generic [ref=f2e99]:
+                - generic [ref=f2e100]: 1440p Gaming · Great
+                - generic [ref=f2e101]: Multitasking · Good
+            - link "Build something similar" [ref=f2e102] [cursor=pointer]:
+              - /url: /build?q=Make%20me%20a%20compact%20ITX%20gaming%20build%20for%20%242%2C200
+        - paragraph [ref=f2e105]: 8 components are checked for compatibility in every build above before it's shown to you.
+  - contentinfo [ref=f2e106]:
+    - generic [ref=f2e107]:
+      - generic [ref=f2e108]:
+        - generic [ref=f2e109]: EasyBuild.
+        - paragraph [ref=f2e110]: An AI agent that plans and builds the perfect PC. Tell it what you want to do.
+      - generic [ref=f2e111]:
+        - link "Build with AI" [ref=f2e112] [cursor=pointer]:
+          - /url: /build
+        - link "Explore Builds" [ref=f2e113] [cursor=pointer]:
+          - /url: /explore
+        - link "My Builds" [ref=f2e114] [cursor=pointer]:
+          - /url: /builds
+  - button "Open Next.js Dev Tools" [ref=f2e120] [cursor=pointer]

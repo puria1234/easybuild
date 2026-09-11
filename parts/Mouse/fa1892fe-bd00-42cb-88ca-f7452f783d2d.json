@@ -1,0 +1,23 @@
+{
+  "opendb_id": "fa1892fe-bd00-42cb-88ca-f7452f783d2d",
+  "connectivity": [],
+  "lighting": [],
+  "grip_types": [],
+  "metadata": {
+    "name": "FinalMouse Ultralight Pro Wired Optical Gaming Mouse",
+    "manufacturer": "Finalmouse",
+    "part_numbers": ["FM-ULTRALIGHT-BK"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FM-ULTRALIGHT-BK",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

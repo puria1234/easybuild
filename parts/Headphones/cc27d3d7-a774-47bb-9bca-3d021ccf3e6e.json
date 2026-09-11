@@ -1,0 +1,26 @@
+{
+  "opendb_id": "cc27d3d7-a774-47bb-9bca-3d021ccf3e6e",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Philips HS430 Closed-Back Headphones",
+    "manufacturer": "Philips",
+    "part_numbers": ["HS430"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HS430",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

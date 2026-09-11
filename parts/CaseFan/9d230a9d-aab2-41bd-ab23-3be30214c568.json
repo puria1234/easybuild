@@ -1,0 +1,31 @@
+{
+  "opendb_id": "9d230a9d-aab2-41bd-ab23-3be30214c568",
+  "size": 120,
+  "color": ["BLUE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 37.44,
+  "max_airflow": null,
+  "min_noise_level": 19.66,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "None",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Aerocool TURBINE 3000 120mm Blue",
+    "manufacturer": "AeroCool",
+    "part_numbers": [],
+    "series": "TURBINE",
+    "variant": "120mm Blue"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

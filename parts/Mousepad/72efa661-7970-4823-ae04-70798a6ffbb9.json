@@ -1,0 +1,25 @@
+{
+  "opendb_id": "72efa661-7970-4823-ae04-70798a6ffbb9",
+  "metadata": {
+    "name": "Razer Gigantus V2 Pro - Speed - Black",
+    "manufacturer": "Razer",
+    "part_numbers": [],
+    "series": "Gigantus V2 Pro",
+    "variant": "Speed Black",
+    "releaseYear": 2026
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.razer.com/gaming-mouse-mats/razer-gigantus-v2-pro/RZ02-05490900-R3U1"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "RZ02-05490900-R3M1",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

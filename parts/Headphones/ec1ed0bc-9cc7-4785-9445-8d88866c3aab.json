@@ -1,0 +1,26 @@
+{
+  "opendb_id": "ec1ed0bc-9cc7-4785-9445-8d88866c3aab",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Sennheiser Momentum Ivory Closed Headphones",
+    "manufacturer": "Sennheiser",
+    "part_numbers": ["MOMENTUMOEIV"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "MOMENTUMOEIV",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

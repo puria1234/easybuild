@@ -1,0 +1,26 @@
+{
+  "opendb_id": "844c99a0-937d-408a-90c8-a82980193dc2",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Antec 761345740043 In-Ear Closed Headphones",
+    "manufacturer": "Antec",
+    "part_numbers": ["761345740043"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "761345740043",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

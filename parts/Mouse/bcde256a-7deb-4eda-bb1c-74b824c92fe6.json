@@ -1,0 +1,23 @@
+{
+  "opendb_id": "bcde256a-7deb-4eda-bb1c-74b824c92fe6",
+  "connectivity": [],
+  "lighting": [],
+  "grip_types": [],
+  "metadata": {
+    "name": "SteelSeries Call of Duty Black Ops II Wired Laser Gaming Mouse",
+    "manufacturer": "SteelSeries",
+    "part_numbers": ["62157"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "62157",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

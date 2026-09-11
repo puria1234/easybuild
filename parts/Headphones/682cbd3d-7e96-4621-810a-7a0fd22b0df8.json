@@ -1,0 +1,26 @@
+{
+  "opendb_id": "682cbd3d-7e96-4621-810a-7a0fd22b0df8",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Motorola Sf200 Closed In-Ear Headphones",
+    "manufacturer": "Motorola",
+    "part_numbers": ["9532N"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "9532N",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

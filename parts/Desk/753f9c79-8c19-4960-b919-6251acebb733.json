@@ -1,0 +1,23 @@
+{
+  "opendb_id": "753f9c79-8c19-4960-b919-6251acebb733",
+  "metadata": {
+    "name": "IKEA LAGKAPTEN / ADILS Desk 55 1/8x23 5/8 \"",
+    "manufacturer": "IKEA",
+    "part_numbers": ["s59417153"],
+    "variant": "55 1/8x23 5/8 \""
+  },
+  "general_product_information": {
+    "manufacturer_url": "https://www.ikea.com/us/en/p/lagkapten-adils-desk-white-s59417153/"
+  },
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "s59417153",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

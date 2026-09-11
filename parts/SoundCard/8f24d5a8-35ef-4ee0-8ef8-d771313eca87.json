@@ -1,0 +1,20 @@
+{
+  "opendb_id": "8f24d5a8-35ef-4ee0-8ef8-d771313eca87",
+  "metadata": {
+    "name": "Encore ENM232-8VIA PCI 7.1 Channel 24-bit 96 kHz",
+    "manufacturer": "Encore",
+    "part_numbers": ["ENM232-8VIA"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "ENM232-8VIA",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "opendb_id": "06aef0e6-9159-45e3-8486-07c6335e337a",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Naztech i9BT Wireless Closed-Back Black / Silver Headphones",
+    "manufacturer": "Naztech",
+    "part_numbers": ["i9BT"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "i9BT",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

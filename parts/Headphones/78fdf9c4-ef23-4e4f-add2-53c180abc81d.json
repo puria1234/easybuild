@@ -1,0 +1,26 @@
+{
+  "opendb_id": "78fdf9c4-ef23-4e4f-add2-53c180abc81d",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Belkin SOUNDFORM Mini Closed-Back Headphones Pink",
+    "manufacturer": "Belkin",
+    "part_numbers": ["AUD001btPKCS"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AUD001btPKCS",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

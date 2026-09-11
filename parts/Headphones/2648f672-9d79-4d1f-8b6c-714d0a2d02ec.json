@@ -1,0 +1,26 @@
+{
+  "opendb_id": "2648f672-9d79-4d1f-8b6c-714d0a2d02ec",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "AKG K272 HD Closed Headphones",
+    "manufacturer": "AKG",
+    "part_numbers": ["K272 HD"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "K272 HD",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

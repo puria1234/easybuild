@@ -1,0 +1,43 @@
+{
+  "opendb_id": "aaf2f305-78af-4450-9d90-f70b48ed957c",
+  "screen_size": 21.5,
+  "resolution": {
+    "horizontalRes": 1920,
+    "verticalRes": 1080
+  },
+  "refresh_rate": 60,
+  "panel_type": "VA",
+  "response_time": 7,
+  "color": ["BLACK"],
+  "lighting": [],
+  "viewing_angle": "",
+  "aspect_ratio": "16:9",
+  "connectors": "",
+  "max_brightness": 250,
+  "hdr": "",
+  "adaptive_sync": "None",
+  "metadata": {
+    "name": "HP V22v 21.5\" 1080p 60Hz VA Monitor",
+    "manufacturer": "HP",
+    "part_numbers": ["450M3AA#ABA", "V22v"],
+    "series": "",
+    "variant": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "450M3AA#ABA",
+        "region": "all"
+      },
+      {
+        "type": "mpn",
+        "value": "V22v",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

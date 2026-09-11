@@ -1,0 +1,26 @@
+{
+  "opendb_id": "6a744018-9271-4cdf-ab96-c42ae2480316",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Periodic Audio Carbon Closed In-Ear Headphones",
+    "manufacturer": "Periodic Audio",
+    "part_numbers": ["C"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "C",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

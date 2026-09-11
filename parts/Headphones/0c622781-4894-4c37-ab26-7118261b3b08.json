@@ -1,0 +1,26 @@
+{
+  "opendb_id": "0c622781-4894-4c37-ab26-7118261b3b08",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "HiFiMAN SHANGRI-LA jr Open-Back Headphones",
+    "manufacturer": "HiFiMAN",
+    "part_numbers": ["SHANGRI-LA jr"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "SHANGRI-LA jr",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

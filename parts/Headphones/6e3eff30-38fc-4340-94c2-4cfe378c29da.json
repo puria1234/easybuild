@@ -1,0 +1,26 @@
+{
+  "opendb_id": "6e3eff30-38fc-4340-94c2-4cfe378c29da",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Skullcandy S2IKFY-074 In-Ear Closed Headset",
+    "manufacturer": "Skullcandy",
+    "part_numbers": ["S2IKFY-074"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "S2IKFY-074",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

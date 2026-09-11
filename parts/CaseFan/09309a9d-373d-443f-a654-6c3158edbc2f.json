@@ -1,0 +1,31 @@
+{
+  "opendb_id": "09309a9d-373d-443f-a654-6c3158edbc2f",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 71.2,
+  "max_airflow": null,
+  "min_noise_level": 14,
+  "max_noise_level": 35,
+  "pwm": true,
+  "led": "Red",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 2.1,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "ID-COOLING WF-12025-XT-R 120mm Black PWM Red 71.2 CFM 1-Pack",
+    "manufacturer": "ID-COOLING",
+    "part_numbers": [],
+    "series": "WF-12025-XT-R",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

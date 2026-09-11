@@ -1,0 +1,85 @@
+{
+  "opendb_id": "efed6b7c-b36e-4d2d-aead-5e3af5e6cef8",
+  "size": 140,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 3,
+  "min_airflow": 74.39,
+  "max_airflow": null,
+  "min_noise_level": 28,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "Addressable RGB",
+  "connector": "4-pin PWM + 3-pin 5V Addressable RGB",
+  "controller": "None",
+  "static_pressure": 2.45,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Fractal Design Momentum 140mm Black PWM Addressable RGB 74.39 CFM 3-Pack",
+    "manufacturer": "Fractal Design",
+    "part_numbers": ["FD-F-MR1-1403"],
+    "series": "Momentum",
+    "variant": "140mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "FD-F-MR1-1403",
+        "region": "all"
+      },
+      {
+        "type": "upc",
+        "value": "843276108939",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": [
+      {
+        "source": "bhphoto",
+        "channel": "us",
+        "source_product_id": "FRFDFMR11403",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "ccl",
+        "channel": "uk",
+        "source_product_id": "CLR3323",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "mwave",
+        "channel": "au",
+        "source_product_id": "AC96600",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "ca",
+        "source_product_id": "N82E16835352120",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "newegg",
+        "channel": "us",
+        "source_product_id": "N82E16835352120",
+        "pricing_enabled": true,
+        "verified": false
+      },
+      {
+        "source": "walmart",
+        "channel": "us",
+        "source_product_id": "16911064561",
+        "pricing_enabled": true,
+        "verified": false
+      }
+    ]
+  }
+}

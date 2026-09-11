@@ -1,0 +1,631 @@
+[
+  {
+    "id": "09086e21-4979-41ba-a451-3f8bb1c9cc55",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 9700X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.5 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0D6NMDNNX"
+  },
+  {
+    "id": "0a10243d-8440-4921-8e3f-cf459674effb",
+    "category": "cpu",
+    "name": "AMD EPYC 4344P",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.3 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0D7XGKGB4"
+  },
+  {
+    "id": "103ad632-4a9b-4126-9ed9-9d7ef4793060",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 9600",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5.2 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0FHDXP318"
+  },
+  {
+    "id": "115d2821-5d45-41b8-b4c9-aa3f95215fab",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 7500F OEM/Tray",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0D1CK42PV"
+  },
+  {
+    "id": "15164378-8aa4-48d3-970d-c832589ac734",
+    "category": "cpu",
+    "name": "AMD EPYC 4584PX",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "16C/32T",
+      "Boost": "5.7 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0F2YJ3NS7"
+  },
+  {
+    "id": "2027bf67-9231-46ab-921d-b81868f28f9f",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 PRO 7945 OEM/Tray",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.4 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0D1CKDQYJ"
+  },
+  {
+    "id": "24b3997b-1de2-42f5-a680-07818370a0da",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 7700X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "4.5 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0H71CW1SZ"
+  },
+  {
+    "id": "2ab00ac9-d91e-4250-9297-2bdd6f617d41",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 7900",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.4 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0BMQK718H"
+  },
+  {
+    "id": "38cf0049-8c6a-417d-afd5-292d384ca632",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 8700F",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0D2JCMP34"
+  },
+  {
+    "id": "3af33662-8d17-4e72-bdd9-200604b9db7b",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 7500X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "4.5 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FT8X951Z"
+  },
+  {
+    "id": "48e1de64-e4a3-484b-8de6-edc06c83df06",
+    "category": "cpu",
+    "name": "AMD EPYC 4564P",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 170,
+    "specs": {
+      "Cores": "16C/32T",
+      "Boost": "5.7 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0F3T5GK7F"
+  },
+  {
+    "id": "4dcfffec-423b-4052-8aca-db6c0f84bb43",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 7800X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BTZB7F88"
+  },
+  {
+    "id": "4fb54223-132b-42ac-b668-4be50bb6df71",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 7950X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "16C/32T",
+      "Boost": "5.7 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BTRH9MNS"
+  },
+  {
+    "id": "5b3f1331-be66-43b0-b094-ac032d946b0c",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 8500G",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CQ4JV8D5"
+  },
+  {
+    "id": "60a8ba0d-d6a5-4e84-89df-a5ca2a8915c9",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 7700X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 105,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.4 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0BBHHT8LY"
+  },
+  {
+    "id": "616b97e2-782a-4a0c-80cf-f8b56a9cf18b",
+    "category": "cpu",
+    "name": "AMD EPYC 4464P",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.4 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0GK16KJN7"
+  },
+  {
+    "id": "62ae475a-b7db-4604-85cb-b0103c24345c",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 PRO 7745",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.3 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0D1CL2T85"
+  },
+  {
+    "id": "63f23f26-d52c-4e3c-be6e-0d25163cff59",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 7950X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 170,
+    "specs": {
+      "Cores": "16C/32T",
+      "Boost": "5.7 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BBHD5D8Y"
+  },
+  {
+    "id": "6a1ab0c4-2b0f-442c-b058-64ee490c8fc6",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 PRO 7645 OEM/Tray",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5.1 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0D1CLGS98"
+  },
+  {
+    "id": "6b03b443-7b22-491c-b301-7e2a285359df",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 7600",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5.1 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0BMQJWBDM"
+  },
+  {
+    "id": "78196eaf-6ffa-4232-976b-c50e0680157e",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 7900X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.6 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0BTRRNK7T"
+  },
+  {
+    "id": "7ab840c3-8c52-4ced-a65c-7b0922ca479e",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 9800X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.2 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0DKFMSMYK"
+  },
+  {
+    "id": "7e2631f6-7672-4930-9c02-728bab88198f",
+    "category": "cpu",
+    "name": "AMD Ryzen™ 5 7500F",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5 GHz"
+    },
+    "tier": 1
+  },
+  {
+    "id": "850de815-7c76-48e5-8097-a009109be14b",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 7600X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "4.7 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0F9XH8DBP"
+  },
+  {
+    "id": "8fcefb4e-6fa9-4b70-8fa7-5679a9e15e9c",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 9900X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.5 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DWGWN8GY"
+  },
+  {
+    "id": "ab2ec942-57d3-436a-b041-30103c882842",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 7700",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.3 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0C3T39N6P"
+  },
+  {
+    "id": "ab4fadad-e3a1-41ff-82fd-e16e5af8a324",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 7700",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.3 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BMQHSCVF"
+  },
+  {
+    "id": "ac833b07-53eb-4d59-8be5-bcd20ad26e79",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 8600G",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0CQ4GYTTX"
+  },
+  {
+    "id": "b6f5b046-0856-4ef3-9689-5d75ddc92608",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 9900X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.6 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0D6NN87T8"
+  },
+  {
+    "id": "b7d6999e-97a3-4ca1-b9d4-f266e4d60135",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 8400F",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "4.7 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0D2JD6P86"
+  },
+  {
+    "id": "ba099e65-8148-4937-aa16-80927792778e",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 7600X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "4.7 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0F9XH8DBP"
+  },
+  {
+    "id": "c0c9ae6f-6eac-4740-8b6c-06db912c1ff8",
+    "category": "cpu",
+    "name": "AMD EPYC 4484PX OEM/Tray",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.6 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GLGCHXY1"
+  },
+  {
+    "id": "c2d5377e-bf6e-42e7-a19e-87a8df32dac5",
+    "category": "cpu",
+    "name": "AMD EPYC 4244P",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5.1 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0GLNSBJ8J"
+  },
+  {
+    "id": "c315b361-a062-410e-9108-de12a2e800d0",
+    "category": "cpu",
+    "name": "AMD EPYC 4364P",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 105,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.4 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0FT8525TF"
+  },
+  {
+    "id": "cc0a0e08-bc25-4539-af92-952cced58623",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 9600X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5.4 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0D6NN6TM7"
+  },
+  {
+    "id": "cf33502b-5930-4faa-b387-835d0c65efc1",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 9950X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 170,
+    "specs": {
+      "Cores": "16C/32T",
+      "Boost": "5.7 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0DVZSG8D5"
+  },
+  {
+    "id": "d17da031-a70f-4dce-91bf-1b29d8aca3a8",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 7800X3D OEM/Tray",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0FJRY2K75"
+  },
+  {
+    "id": "e4a66aac-5c74-4833-958d-32719b9ad077",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 9850X3D",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 120,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.6 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0G8JMLXNQ"
+  },
+  {
+    "id": "e88eb56d-8a6b-44d4-87c4-7846f12dbe0b",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 9950X3D2",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 200,
+    "specs": {
+      "Cores": "16C/32T",
+      "Boost": "5.6 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0GTRTJSNZ"
+  },
+  {
+    "id": "e94bcdb0-a842-447e-9c20-6d7db68e8e85",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 PRO 7745 OEM/Tray",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.3 GHz"
+    },
+    "tier": 3,
+    "url": "https://www.amazon.com/dp/B0D1CL2T85"
+  },
+  {
+    "id": "ea28e46f-dc70-4547-9701-eca335890462",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 7500F",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5 GHz"
+    },
+    "tier": 1,
+    "url": "https://www.amazon.com/dp/B0D2RWZ2LK"
+  },
+  {
+    "id": "eda463d1-d4b6-4f1a-96dd-0416efe84381",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 7900X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 170,
+    "specs": {
+      "Cores": "12C/24T",
+      "Boost": "5.6 GHz"
+    },
+    "tier": 4,
+    "url": "https://www.amazon.com/dp/B0BBJ59WJ4"
+  },
+  {
+    "id": "ee2ac384-a2d9-4324-88af-d4765e604bcf",
+    "category": "cpu",
+    "name": "AMD Ryzen 9 9950X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 170,
+    "specs": {
+      "Cores": "16C/32T",
+      "Boost": "5.7 GHz"
+    },
+    "tier": 5,
+    "url": "https://www.amazon.com/dp/B0D6NNRBGP"
+  },
+  {
+    "id": "fe2cf1aa-c66e-43ec-a55b-997584228dd1",
+    "category": "cpu",
+    "name": "AMD Ryzen 5 7600X",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 105,
+    "specs": {
+      "Cores": "6C/12T",
+      "Boost": "5.3 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0BBJDS62N"
+  },
+  {
+    "id": "fe3d12e9-87eb-4701-8579-5c29d61437c6",
+    "category": "cpu",
+    "name": "AMD Ryzen 7 8700G",
+    "brand": "AMD",
+    "socket": "AM5",
+    "watts": 65,
+    "specs": {
+      "Cores": "8C/16T",
+      "Boost": "5.1 GHz"
+    },
+    "tier": 2,
+    "url": "https://www.amazon.com/dp/B0CQ4JBKW3"
+  }
+]

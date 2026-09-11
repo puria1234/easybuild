@@ -1,0 +1,19 @@
+{
+  "opendb_id": "4aaeeb59-4e17-4c3b-b5bf-d4ffbef5818c",
+  "connectivity": ["Wireless 2.4GHz"],
+  "lighting": [],
+  "grip_types": [],
+  "metadata": {
+    "name": "Orbital Pathfinder PSM-000",
+    "manufacturer": "Orbital",
+    "part_numbers": [],
+    "series": "Pathfinder",
+    "variant": "PSM-000"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "opendb_id": "60ee5d91-5184-40dd-a086-dcb7966dabfd",
+  "connectivity": ["Wireless 2.4GHz"],
+  "lighting": [],
+  "grip_types": [],
+  "metadata": {
+    "name": "Monka M3 Pro",
+    "manufacturer": "Monka",
+    "part_numbers": [],
+    "series": "M3",
+    "variant": "Pro"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

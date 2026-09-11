@@ -1,0 +1,31 @@
+{
+  "opendb_id": "00863864-2d23-4391-b09e-48985e6658db",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 107,
+  "max_airflow": null,
+  "min_noise_level": 42,
+  "max_noise_level": null,
+  "pwm": true,
+  "led": "None",
+  "connector": "4-pin PWM",
+  "controller": "None",
+  "static_pressure": 5.81,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "EK Furious Vardar FF5 120mm Black PWM 107 CFM",
+    "manufacturer": "EK",
+    "part_numbers": [],
+    "series": "Furious",
+    "variant": "120mm Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

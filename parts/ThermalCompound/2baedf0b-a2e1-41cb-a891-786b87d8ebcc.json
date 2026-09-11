@@ -1,0 +1,20 @@
+{
+  "opendb_id": "2baedf0b-a2e1-41cb-a891-786b87d8ebcc",
+  "metadata": {
+    "name": "Sunbeam Iceberg TS-IB 1g Thermal Paste",
+    "manufacturer": "Sunbeam",
+    "part_numbers": ["TS-IB"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "TS-IB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

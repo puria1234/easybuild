@@ -1,0 +1,26 @@
+{
+  "opendb_id": "0b45715a-bb1b-4224-820b-8fbfa7781b17",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "JVC HA-A6T Wireless Earbud Closed-Back With Microphone",
+    "manufacturer": "JVC",
+    "part_numbers": ["HAA6TW"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "HAA6TW",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

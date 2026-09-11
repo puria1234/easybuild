@@ -1,0 +1,26 @@
+{
+  "opendb_id": "6655f0c7-89e0-4556-87d9-ce921bd4835f",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "GAMDIAS HEBE Closed-Back Gaming Headset",
+    "manufacturer": "GAMDIAS",
+    "part_numbers": ["GHS2300 USB"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "GHS2300 USB",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

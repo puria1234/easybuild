@@ -1,0 +1,26 @@
+{
+  "opendb_id": "cddccdd6-581d-4515-9dc9-bb4cacde343c",
+  "ear_pad_material": [],
+  "connection_types": [],
+  "features": [],
+  "use_cases": [],
+  "platforms": [],
+  "lighting": [],
+  "metadata": {
+    "name": "Creative Labs Sound Blaster Blaze Closed Headphones",
+    "manufacturer": "Creative Labs",
+    "part_numbers": ["70GH032000000"]
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "70GH032000000",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "opendb_id": "69a62b15-1b3d-4612-841d-f12c4623475c",
+  "size": 80,
+  "color": ["WHITE"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 32.6,
+  "max_airflow": null,
+  "min_noise_level": 25,
+  "max_noise_level": null,
+  "pwm": false,
+  "led": "Purple",
+  "connector": "3-pin",
+  "controller": "None",
+  "static_pressure": null,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Xigmatek Crystal 80mm Clear Purple LED 32.6 CFM",
+    "manufacturer": "Xigmatek",
+    "part_numbers": [],
+    "series": "Crystal",
+    "variant": "80mm Clear"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}

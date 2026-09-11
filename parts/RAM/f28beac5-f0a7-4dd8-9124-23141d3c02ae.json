@@ -1,0 +1,39 @@
+{
+  "opendb_id": "f28beac5-f0a7-4dd8-9124-23141d3c02ae",
+  "speed": 5600,
+  "ram_type": "DDR5",
+  "profile_support": [],
+  "form_factor": "288-pin DIMM",
+  "modules": {
+    "quantity": 2,
+    "capacity_gb": 8
+  },
+  "capacity": 16,
+  "color": ["WHITE"],
+  "lighting": [],
+  "cas_latency": 46,
+  "voltage": null,
+  "ecc": "Non-ECC",
+  "registered": "Unbuffered",
+  "heat_spreader": true,
+  "rgb": false,
+  "metadata": {
+    "name": "ADATA XPG Lancer Blade White DDR5-5600 CL46 16GB (2x8GB)",
+    "manufacturer": "ADATA",
+    "part_numbers": ["AX5U5600C468G-DTLABWH"],
+    "series": "XPG",
+    "variant": "5600 CL46"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [
+      {
+        "type": "mpn",
+        "value": "AX5U5600C468G-DTLABWH",
+        "region": "all"
+      }
+    ],
+    "retailer_listings": []
+  }
+}

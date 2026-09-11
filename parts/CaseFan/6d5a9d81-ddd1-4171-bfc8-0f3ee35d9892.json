@@ -1,0 +1,29 @@
+{
+  "opendb_id": "6d5a9d81-ddd1-4171-bfc8-0f3ee35d9892",
+  "size": 120,
+  "color": ["BLACK"],
+  "lighting": [],
+  "quantity": 1,
+  "min_airflow": 10.4,
+  "max_airflow": 73.5,
+  "min_noise_level": 10,
+  "max_noise_level": 36,
+  "led": "Addressable RGB",
+  "controller": "None",
+  "static_pressure": 4.33,
+  "flow_direction": "Standard",
+  "isOEM": false,
+  "metadata": {
+    "name": "Corsair iCUE Link Titan 240 RX RGB FAN Black",
+    "manufacturer": "Corsair",
+    "part_numbers": [],
+    "series": null,
+    "variant": "Black"
+  },
+  "general_product_information": {},
+  "identifiers": {
+    "version": 1,
+    "identifiers": [],
+    "retailer_listings": []
+  }
+}
