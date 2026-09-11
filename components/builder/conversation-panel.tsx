@@ -128,7 +128,7 @@ export function ConversationPanel({
         <span className="text-xs uppercase tracking-wide text-muted-foreground">EasyBuilder</span>
       </div>
 
-      <div ref={scrollRef} className="relative z-10 flex-1 space-y-5 overflow-y-auto px-4 py-4">
+      <div ref={scrollRef} className="relative z-10 min-h-0 flex-1 space-y-5 overflow-y-auto px-4 py-4">
         {messages.map((m) => (
           <motion.div
             key={m.id}

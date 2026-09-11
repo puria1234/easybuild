@@ -17,6 +17,7 @@ export default function SavedBuildPage() {
   const { user, loading: authLoading } = useAuth();
   const [build, setBuild] = useState<Build | null | undefined>(undefined);
   const [saved, setSaved] = useState(true);
+  const [saveError, setSaveError] = useState<string | null>(null);
 
   useEffect(() => {
     if (!user) return;
@@ -45,8 +46,13 @@ export default function SavedBuildPage() {
 
   async function onSave() {
     if (!build) return;
+    setSaveError(null);
     const result = await saveBuildToHistory(build);
-    if (result.ok) setSaved(true);
+    if (result.ok) {
+      setSaved(true);
+    } else {
+      setSaveError(result.message ?? "Something went wrong. Try again in a moment.");
+    }
   }
 
   return (
@@ -84,7 +90,7 @@ export default function SavedBuildPage() {
               Continue with AI
             </Link>
           </div>
-          <SummaryPanel build={build} revealed={ALL_REVEALED} onSwapPart={onSwapPart} onSave={onSave} saved={saved} />
+          <SummaryPanel build={build} revealed={ALL_REVEALED} onSwapPart={onSwapPart} onSave={onSave} saved={saved} saveError={saveError} />
         </div>
       )}
     </div>

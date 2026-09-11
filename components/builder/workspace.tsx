@@ -47,6 +47,7 @@ export function BuilderWorkspace() {
 
   const [revealed, setRevealed] = useState<Set<ComponentCategory>>(new Set());
   const [saved, setSaved] = useState(false);
+  const [saveError, setSaveError] = useState<string | null>(null);
   const [mobileSheetOpen, setMobileSheetOpen] = useState(false);
   const [idleValue, setIdleValue] = useState("");
   const [displayBuild, setDisplayBuild] = useState<Build | null>(null);
@@ -85,6 +86,7 @@ export function BuilderWorkspace() {
     seenBuildId.current = agentBuild.id;
     setDisplayBuild(agentBuild);
     setSaved(false);
+    setSaveError(null);
     if (isFirstBuild) {
       setRevealed(new Set());
       CATEGORY_ORDER.forEach((cat, i) => {
@@ -168,11 +170,14 @@ export function BuilderWorkspace() {
 
   async function onSave() {
     if (!displayBuild) return;
+    setSaveError(null);
     const result = await saveBuildToHistory(displayBuild);
     if (result.ok) {
       setSaved(true);
     } else if (result.error === "not_signed_in") {
       router.push(`/sign-in?next=/build`);
+    } else {
+      setSaveError(result.message ?? "Something went wrong. Try again in a moment.");
     }
   }
 
@@ -240,6 +245,7 @@ export function BuilderWorkspace() {
               onTierChange={onTierChange}
               onSave={onSave}
               saved={saved}
+              saveError={saveError}
             />
           ) : (
             <div className="flex h-full items-center justify-center px-6 text-center text-sm text-muted-foreground">
@@ -249,13 +255,13 @@ export function BuilderWorkspace() {
         </div>
       </div>
 
-      <div className="flex flex-1 flex-col lg:hidden">
-        <div className="min-h-[420px] flex-1">
+      <div className="flex min-h-0 flex-1 flex-col lg:hidden">
+        <div className="min-h-0 flex-1">
           <ConversationPanel messages={messages} loading={loading} thinking={thinking} activityLog={activityLog} onSend={onSend} />
         </div>
 
         {displayBuild && (
-          <div className="sticky bottom-0 flex items-center justify-between border-t border-border/60 bg-background/95 px-4 py-3 backdrop-blur">
+          <div className="shrink-0 flex items-center justify-between border-t border-border/60 bg-background/95 px-4 py-3 backdrop-blur">
             <div>
               <div className="text-[10px] uppercase tracking-wide text-muted-foreground">Your build</div>
               <div className="font-heading text-base font-medium">{displayBuild.title}</div>
@@ -281,6 +287,7 @@ export function BuilderWorkspace() {
               onTierChange={onTierChange}
               onSave={onSave}
               saved={saved}
+              saveError={saveError}
             />
           </SheetContent>
         </Sheet>

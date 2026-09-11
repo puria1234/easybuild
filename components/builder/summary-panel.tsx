@@ -15,6 +15,7 @@ export function SummaryPanel({
   onTierChange,
   onSave,
   saved,
+  saveError,
 }: {
   build: Build;
   revealed: Set<ComponentCategory>;
@@ -22,6 +23,7 @@ export function SummaryPanel({
   onTierChange?: (t: RequirementTier) => void;
   onSave: () => void;
   saved: boolean;
+  saveError?: string | null;
 }) {
   return (
     <div className="flex h-full flex-col overflow-y-auto">
@@ -40,6 +42,7 @@ export function SummaryPanel({
           <motion.div key={build.title} initial={{ opacity: 0.5 }} animate={{ opacity: 1 }} className="mt-1 font-heading text-2xl font-semibold tracking-tight">
             {build.title}
           </motion.div>
+          {saveError && <p className="mt-1 text-xs text-destructive">Couldn&apos;t save: {saveError}</p>}
         </div>
       </div>
 

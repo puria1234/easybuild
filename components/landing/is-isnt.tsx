@@ -8,7 +8,7 @@ const IS = [
 
 const ISNT = [
   "A retailer: it doesn't sell, ship, or hold stock of anything",
-  "A live price-tracking tool; prices are a snapshot, not real-time",
+  "A price-tracking tool; it ranks parts by real specs, not by cost",
   "A replacement for reading reviews on a build you're serious about",
 ];
 

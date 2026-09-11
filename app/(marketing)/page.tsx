@@ -3,7 +3,6 @@ import { HowItWorks } from "@/components/landing/how-it-works";
 import { AssemblyCinematic } from "@/components/landing/assembly-cinematic";
 import { ExplorePreview } from "@/components/landing/explore-preview";
 import { IsIsnt } from "@/components/landing/is-isnt";
-import { FAQ } from "@/components/landing/faq";
 import { ClosingCTA } from "@/components/landing/closing-cta";
 
 export default function Home() {
@@ -14,7 +13,6 @@ export default function Home() {
       <AssemblyCinematic />
       <ExplorePreview />
       <IsIsnt />
-      <FAQ />
       <ClosingCTA />
     </div>
   );

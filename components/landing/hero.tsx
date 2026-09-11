@@ -7,7 +7,7 @@ import { ArrowUp } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const SUGGESTIONS = [
-  "Build me a $1,500 gaming PC",
+  "Build me an entry-level gaming PC",
   "I want the best PC for Blender",
   "Upgrade my current PC",
   "Build a silent workstation",
@@ -94,7 +94,7 @@ export function Hero() {
                 }
               }}
               rows={1}
-              placeholder="I need a $2,500 PC for 1440p gaming and Blender..."
+              placeholder="I need a high-end PC for 1440p gaming and Blender..."
               className="max-h-40 min-h-[28px] flex-1 resize-none bg-transparent py-2 text-left text-[15px] text-foreground placeholder:text-muted-foreground/70 focus:outline-none"
             />
             <button

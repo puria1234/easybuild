@@ -32,7 +32,7 @@ function rowToBuild(row: BuildRow): Build {
   };
 }
 
-export type SaveResult = { ok: true } | { ok: false; error: "not_configured" | "not_signed_in" | "unknown" };
+export type SaveResult = { ok: true } | { ok: false; error: "not_configured" | "not_signed_in" | "unknown"; message?: string };
 
 export async function loadBuildHistory(): Promise<Build[]> {
   if (!isSupabaseConfigured()) return [];
@@ -85,7 +85,11 @@ export async function saveBuildToHistory(build: Build): Promise<SaveResult> {
     created_at: build.createdAt,
   });
 
-  return error ? { ok: false, error: "unknown" } : { ok: true };
+  if (error) {
+    console.error("saveBuildToHistory failed:", error);
+    return { ok: false, error: "unknown", message: error.message };
+  }
+  return { ok: true };
 }
 
 export async function removeBuildFromHistory(id: string): Promise<void> {
