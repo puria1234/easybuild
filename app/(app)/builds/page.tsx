@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { ArrowRight, Boxes, Trash2 } from "lucide-react";
+import { ArrowLeft, ArrowRight, Boxes, Trash2 } from "lucide-react";
 import { useAuth } from "@/components/auth/auth-provider";
 import { loadBuildHistory, removeBuildFromHistory } from "@/lib/build-history";
 import { Build, TIER_LABEL } from "@/lib/types";
@@ -26,7 +26,12 @@ export default function MyBuildsPage() {
 
   return (
     <div className="mx-auto w-full max-w-4xl px-5 py-16 sm:px-8 sm:py-20">
-      <div className="max-w-lg">
+      <Link href="/build" className="flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground">
+        <ArrowLeft size={14} />
+        Back to builder
+      </Link>
+
+      <div className="mt-6 max-w-lg">
         <h1 className="font-heading text-3xl font-semibold tracking-tight sm:text-4xl">My builds</h1>
         <p className="mt-3 text-muted-foreground">Builds you&apos;ve saved from the AI builder, tied to your account.</p>
       </div>
