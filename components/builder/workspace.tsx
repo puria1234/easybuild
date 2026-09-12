@@ -8,7 +8,7 @@ import { ArrowUp, PanelsTopLeft } from "lucide-react";
 import { getSavedBuild, saveBuildToHistory } from "@/lib/build-history";
 import { runCompatibilityChecks } from "@/lib/buildcores";
 import { Build, CATEGORY_ORDER, ChatMessage, ComponentCategory, PartOption, RequirementTier, TIER_LABEL } from "@/lib/types";
-import { ConversationPanel } from "./conversation-panel";
+import { ConversationPanel, type ActivityEntry } from "./conversation-panel";
 import { SummaryPanel } from "./summary-panel";
 import { Sheet, SheetContent, SheetTitle } from "@/components/ui/sheet";
 
@@ -51,7 +51,7 @@ export function BuilderWorkspace() {
   const [mobileSheetOpen, setMobileSheetOpen] = useState(false);
   const [idleValue, setIdleValue] = useState("");
   const [displayBuild, setDisplayBuild] = useState<Build | null>(null);
-  const [activityLog, setActivityLog] = useState<string[]>([]);
+  const [activityLog, setActivityLog] = useState<ActivityEntry[]>([]);
   const [loadingSaved, setLoadingSaved] = useState(false);
 
   const agent = useEveAgent({
@@ -61,12 +61,20 @@ export function BuilderWorkspace() {
         return;
       }
       if (event.type !== "actions.requested" && event.type !== "action.result" && event.type !== "action.partial") return;
-      const labels = Object.values(event.data.presentation ?? {})
-        .map((p) => p?.label)
-        .filter((l): l is string => Boolean(l));
-      const label = labels[labels.length - 1];
-      if (!label) return;
-      setActivityLog((prev) => (prev[prev.length - 1] === label ? prev : [...prev, label]));
+      const toolNameByCallId: Record<string, string> = {};
+      if (event.type === "actions.requested") {
+        for (const action of event.data.actions) {
+          if (action.kind === "tool-call") toolNameByCallId[action.callId] = action.toolName;
+        }
+      } else if (event.data.result && event.data.result.kind === "tool-result") {
+        toolNameByCallId[event.data.result.callId] = event.data.result.toolName;
+      }
+      const entries = Object.entries(event.data.presentation ?? {})
+        .filter((entry): entry is [string, { label: string }] => Boolean(entry[1]?.label))
+        .map(([callId, p]) => ({ label: p.label, toolName: toolNameByCallId[callId] }));
+      const entry = entries[entries.length - 1];
+      if (!entry) return;
+      setActivityLog((prev) => (prev[prev.length - 1]?.label === entry.label ? prev : [...prev, entry]));
     },
   });
 

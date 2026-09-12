@@ -4,8 +4,25 @@ import { useEffect, useRef, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Markdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { ThinkingOrb, type OrbState } from "thinking-orbs";
 import { ArrowUp, Check } from "lucide-react";
 import { ChatMessage } from "@/lib/types";
+
+export interface ActivityEntry {
+  label: string;
+  toolName?: string;
+}
+
+/** Maps the agent's real in-flight tool to one of thinking-orbs' hand-tuned states. */
+const TOOL_ORB_STATE: Record<string, OrbState> = {
+  get_part_candidates: "searching",
+  finalize_build: "solving",
+  web_search: "connecting",
+};
+
+function orbStateFor(toolName?: string): OrbState {
+  return (toolName && TOOL_ORB_STATE[toolName]) || "breathing";
+}
 
 /** The agent now answers general questions too (comparisons, tables) as well as build changes; render its markdown instead of literal text. */
 function AssistantText({ content }: { content: string }) {
@@ -38,13 +55,11 @@ function AssistantText({ content }: { content: string }) {
 }
 
 /** Renders the agent's real, live tool activity for this turn (see `workspace.tsx`'s `onEvent` handler), not a fixed timer. */
-function ActivityLog({ log }: { log: string[] }) {
+function ActivityLog({ log }: { log: ActivityEntry[] }) {
   if (log.length === 0) {
     return (
       <div className="flex items-center gap-2 text-sm">
-        <span className="flex h-4 w-4 items-center justify-center">
-          <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-signal" />
-        </span>
+        <ThinkingOrb state="breathing" size={20} />
         <span className="text-foreground">Thinking...</span>
       </div>
     );
@@ -52,11 +67,11 @@ function ActivityLog({ log }: { log: string[] }) {
 
   return (
     <div className="flex flex-col gap-1.5">
-      {log.map((label, i) => {
+      {log.map((entry, i) => {
         const done = i < log.length - 1;
         return (
           <motion.div
-            key={`${i}-${label}`}
+            key={`${i}-${entry.label}`}
             initial={{ opacity: 0, x: -6 }}
             animate={{ opacity: 1, x: 0 }}
             className="flex items-center gap-2 text-sm"
@@ -64,13 +79,13 @@ function ActivityLog({ log }: { log: string[] }) {
             <span
               className={
                 done
-                  ? "flex h-4 w-4 items-center justify-center rounded-full bg-success/20 text-success"
-                  : "flex h-4 w-4 items-center justify-center"
+                  ? "flex h-5 w-5 items-center justify-center rounded-full bg-success/20 text-success"
+                  : "flex h-5 w-5 items-center justify-center"
               }
             >
-              {done ? <Check size={11} /> : <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-signal" />}
+              {done ? <Check size={11} /> : <ThinkingOrb state={orbStateFor(entry.toolName)} size={20} />}
             </span>
-            <span className={done ? "text-muted-foreground" : "text-foreground"}>{label}</span>
+            <span className={done ? "text-muted-foreground" : "text-foreground"}>{entry.label}</span>
           </motion.div>
         );
       })}
@@ -89,7 +104,7 @@ export function ConversationPanel({
   messages: ChatMessage[];
   loading: boolean;
   thinking?: boolean;
-  activityLog: string[];
+  activityLog: ActivityEntry[];
   onSend: (text: string) => void;
   disabled?: boolean;
 }) {
@@ -165,8 +180,8 @@ export function ConversationPanel({
 
         {thinking && !loading && (
           <div className="flex items-center gap-2 pl-0.5 text-sm text-muted-foreground">
-            <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-muted-foreground/60" />
-            {activityLog[activityLog.length - 1] ?? "Thinking..."}
+            <ThinkingOrb state={orbStateFor(activityLog[activityLog.length - 1]?.toolName)} size={20} />
+            {activityLog[activityLog.length - 1]?.label ?? "Thinking..."}
           </div>
         )}
       </div>
